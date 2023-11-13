@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1699816180 "/Volumes/SamsungSSD/nextcloud/Classes/2023 Intersession/CRJU-POSC_320.tex" "CRJU-POSC_320.pdf" "CRJU-POSC_320" 1699816181 0
-  "/Volumes/SamsungSSD/nextcloud/Classes/2023 Intersession/CRJU-POSC_320.tex" 1699816180 11174 0116dd62b49a46b6a8a37843cfc8e479 ""
+["pdflatex"] 1699861133 "/Volumes/SamsungSSD/nextcloud/CSUF-MPA GitHub/syllabi/CRJU_POSC 320/2023-24 Intersession/CRJU-POSC_320.tex" "CRJU-POSC_320.pdf" "CRJU-POSC_320" 1699861134 0
+  "/Volumes/SamsungSSD/nextcloud/CSUF-MPA GitHub/syllabi/CRJU_POSC 320/2023-24 Intersession/CRJU-POSC_320.tex" 1699861133 19031 20774463ba9e7a3ad09d8597f516d565 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/roboto/rbto_b5rac7.enc" 1576101225 3075 0696ceafc85b8352a913efb9ba64bc17 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/roboto/rbto_ocbbsb.enc" 1576101225 3314 42351250ac95a91f488e14b5633f75ce ""
@@ -16,8 +16,14 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1136768653 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ectt1200.tfm" 1136768653 1536 487c9b46984a816c7ed238d0674595c7 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1136768653 1300 b62933e007d01cfd073f79b963c01526 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb" 1576101225 200063 9ca44329cc831cd6ca9d60e3d58e1c33 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Italic.pfb" 1576101225 224430 4a69b9a2c1e1afa2cb2cc923e400973a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Regular.pfb" 1576101225 212275 725f6c6c319ad18a129858989d00cf22 ""
@@ -95,7 +101,6 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg" 1279039959 678 4792914a8f45be57bb98413425e4c7af ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty" 1575499565 5766 13a9e8766c47f30327caf893ece86ac8 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/mweights/mweights.sty" 1490909540 4953 67f29a12ea26221103fce6bae3433e60 ""
-  "/usr/local/texlive/2023/texmf-dist/tex/latex/natbib/natbib.sty" 1291685959 45456 1c8843383c0bd05870c45fa0ebea6cc2 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/paralist/paralist.sty" 1485124581 14857 82c76ebe8f06becf69ab309565b2a0cb ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/quoting/quoting.sty" 1391035163 3852 be69811d3d484a2925ac73899de12ee3 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
@@ -114,8 +119,8 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1690962113 4647401 00ff9efb2ef8bbb46dd24b87a26bdf62 ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1690962326 8172528 358919f8ad063ad2501f5a088a2ad7bb ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "CRJU-POSC_320.aux" 1699816181 665 3ad61e6558f179c76560f59b277b6f9e "pdflatex"
-  "CRJU-POSC_320.tex" 1699816180 11174 0116dd62b49a46b6a8a37843cfc8e479 ""
+  "CRJU-POSC_320.aux" 1699861134 1135 6599f243e6306916d5694d1f86864ccc "pdflatex"
+  "CRJU-POSC_320.tex" 1699861133 19031 20774463ba9e7a3ad09d8597f516d565 ""
   "csuf_logo.png" 1699764529 13469 65e84d6a6dac7b4f7efd8b3d60de417e ""
   (generated)
   "CRJU-POSC_320.aux"
