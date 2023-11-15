@@ -1,45 +1,47 @@
 # Syllabi Repository
 
-This GitHub repository contains syllabi for courses taught by David P. Adams, Ph.D. at California State University, Fullerton. The syllabi are organized by course number and semester, and are generally the most recent version. The syllabi are a collection of courses in public administration and public policy, formatted in LaTeX. Educators, students in public administration, and students in public policy are welcome to use the syllabi as a resource.
-
-This repository is maintained by David P. Adams, Ph.D. at California State University, Fullerton. The syllabi are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+## Introduction
+Welcome to the GitHub repository containing a curated collection of syllabi for courses in Public Administration and Public Policy, taught by David P. Adams, Ph.D., at California State University, Fullerton. These syllabi, formulated with unique pedagogical approaches and thematic focuses, serve as a valuable resource for educators and students alike. The syllabi are meticulously organized by course number and semester and represent the most recent versions, formatted in LaTeX.
 
 ## Syllabi
 
 ### Undergraduate Courses
-
-* [POSC 315: Introduction to Public Administration](https://github.com/CSUF-MPA/syllabi/tree/main/POSC%20315)
-* [POSC 320: Introduction to Public Administration](https://github.com/CSUF-MPA/syllabi/tree/main/CRJU_POSC%20320)
-
+- **POSC 315: Introduction to Public Administration** - Explore the basics of public administration, including its role in government efficiency and public service.
+- **POSC 320: Policy and Administration** - Delve into the relationship between policy-making and administrative processes.
 
 ### Graduate Courses
-
-* [POSC 509: Foundations of Public Administration](https://github.com/CSUF-MPA/syllabi/tree/main/POSC%20509)
-* [POSC 521: Public Administration Theory: MPA Capstone](https://github.com/CSUF-MPA/syllabi/tree/main/POSC%20521)
-* [POSC 588: Collaborative Governance](https://github.com/CSUF-MPA/syllabi/tree/main/POSC%20588)
-
+- **POSC 509: Foundations of Public Administration** - A comprehensive overview of public administration principles and practices.
+- **POSC 521: Public Administration Theory: MPA Capstone** - An advanced course synthesizing public administration theories.
+- **POSC 588: Collaborative Governance** - Focus on collaborative strategies in governance and policy-making.
 
 ## Using the Repository
 
 ### Downloading the Repository
-
-The repository can be downloaded using the following command:
-
+Clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/CSUF-MPA/syllabi
 ```
-### Useful Files
 
-To create your own syllabi using this format, use the syllabus.tex files in the `template` folder. The syllabus.tex files contain the LaTeX code for the syllabi. The syllabus.pdf files in the `template` folder contain the compiled syllabi. The syllabus.tex files are commented to help you understand the LaTeX code. The syllabus.tex files are also formatted to be easily readable in a text editor.
+### Navigating the Repository
+The repository is organized by course number and semester. Each course folder contains the LaTeX source file (`syllabus.tex`) and a compiled PDF (`syllabus.pdf`) for easy viewing.
 
+### Customizing the Syllabi
+To create your own syllabi using this format, use the `syllabus.tex` files in the `template` folder. These files are well-commented to help you understand and modify the LaTeX code. The `syllabus.pdf` files provide a visual reference for the final format.
+
+## Accessibility
+We strive to make our syllabi accessible. If you encounter any accessibility issues, please contact us for an alternative format.
+
+## Updates and Version Control
+This repository is regularly updated to reflect the most current syllabi. Check the commit history for a record of updates and changes.
+
+## Feedback and Contributions
+Your feedback is valuable! For suggestions or contributions, please reach out via the contact information below. Currently, the repository is not open for direct contributions, but input and ideas are always welcome.
 
 ## License
-
-The syllabi are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+This collection of syllabi is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Contact
-
+For inquiries or feedback:
 [David P. Adams, Ph.D.](mailto:dpadams@fullerton.edu)
 Associate Professor of Public Administration
 California State University, Fullerton
-
