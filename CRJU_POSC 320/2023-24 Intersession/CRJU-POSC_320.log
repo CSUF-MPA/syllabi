@@ -1,16 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.2)  12 NOV 2023 23:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.16)  15 NOV 2023 10:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Volumes/SamsungSSD/nextcloud/CSUF-MPA GitHub/syllabi/CRJU_POSC 320/2023-24 Intersession/CRJU-POSC_320.tex"
-(/Volumes/SamsungSSD/nextcloud/CSUF-MPA GitHub/syllabi/CRJU_POSC 320/2023-24 Intersession/CRJU-POSC_320.tex
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-06-30>
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+**"/Users/dpadams/Nextcloud/CSUF-MPA GitHub/syllabi/CRJU_POSC 320/2023-24 Intersession/CRJU-POSC_320.tex"
+(/Users/dpadams/Nextcloud/CSUF-MPA GitHub/syllabi/CRJU_POSC 320/2023-24 Intersession/CRJU-POSC_320.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -35,7 +34,7 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip57
 \f@nch@O@orf=\skip58
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2023/07/15 v3.92 The Babel package
+Package: babel 2023/02/13 3.86 The Babel package
 \babel@savecnt=\count193
 \U@D=\dimen141
 \l@unhyphenated=\language87
@@ -59,7 +58,7 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
+\KV@toks@=\toks16
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
@@ -76,7 +75,7 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutheight=\dimen147
 \Gm@layouthoffset=\dimen148
 \Gm@layoutvoffset=\dimen149
-\Gm@dimlist=\toks18
+\Gm@dimlist=\toks17
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/roboto/roboto.sty
 Package: roboto 2022/09/10 (Bob Tennent) Supports Roboto fonts for all LaTeX engines.
  (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifxetex.sty
@@ -86,8 +85,8 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks19
-\XKV@tempa@toks=\toks20
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
 )
 \XKV@depth=\count198
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -130,8 +129,8 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks21
-\inpenc@posthook=\toks22
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
@@ -139,7 +138,7 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen150
 \ar@mcellbox=\box51
 \extrarowheight=\dimen151
-\NC@list=\toks23
+\NC@list=\toks22
 \extratabsurround=\skip59
 \backup@length=\skip60
 \ar@cellbox=\box52
@@ -150,7 +149,7 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \TX@target=\dimen155
 \TX@delta=\dimen156
 \TX@cols=\count199
-\TX@ftn=\toks24
+\TX@ftn=\toks23
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen157
@@ -171,7 +170,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count269
 \@thisrulewidth=\dimen169
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \c@tracingmulticols=\count270
 \mult@box=\box53
 \multicol@leftmargin=\dimen170
@@ -188,12 +187,12 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \multicolbaselineskip=\skip62
 \partial@page=\box54
 \last@line=\box55
-\mc@boxedresult=\box56
 \maxbalancingoverflow=\dimen175
-\mult@rightbox=\box57
-\mult@grightbox=\box58
-\mult@firstbox=\box59
-\mult@gfirstbox=\box60
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
 \@tempa=\box61
 \@tempa=\box62
 \@tempa=\box63
@@ -229,24 +228,23 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box93
 \@tempa=\box94
 \@tempa=\box95
-\@tempa=\box96
 \c@minrows=\count276
 \c@columnbadness=\count277
 \c@finalcolumnbadness=\count278
 \last@try=\dimen176
 \multicolovershoot=\dimen177
 \multicolundershoot=\dimen178
-\mult@nat@firstbox=\box97
-\colbreak@box=\box98
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
 \mc@col@check@num=\count279
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
 \ESO@tempdima=\dimen179
 \ESO@tempdimb=\dimen180
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2023/07/31 v3.6n Customizing captions (AR)
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@tempdima=\dimen181
 \captionmargin=\dimen182
 \caption@leftmargin=\dimen183
@@ -260,10 +258,10 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count280
 \c@continuedfloat=\count281
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
-Package caption Info: New subtype `subfigure' on input line 238.
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 239.
 \c@subfigure=\count282
-Package caption Info: New subtype `subtable' on input line 238.
+Package caption Info: New subtype `subtable' on input line 239.
 \c@subtable=\count283
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
@@ -273,7 +271,7 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \plpartopsep=\skip64
 \plitemsep=\skip65
 \plparsep=\skip66
-\pl@lab=\toks25
+\pl@lab=\toks24
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/quoting/quoting.sty
 Package: quoting 2014/01/28 v0.1c Consolidated environment for displayed text
  (/usr/local/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
@@ -293,8 +291,8 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip68
 \enit@outerparindent=\dimen189
-\enit@toks=\toks26
-\enit@inbox=\box99
+\enit@toks=\toks25
+\enit@inbox=\box98
 \enit@count@id=\count285
 \enitdp@description=\count286
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -313,14 +311,14 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count287
-\float@exts=\toks27
-\float@box=\box100
-\@float@everytoks=\toks28
-\@floatcapt=\box101
+\float@exts=\toks26
+\float@box=\box99
+\@float@everytoks=\toks27
+\@floatcapt=\box100
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
@@ -340,7 +338,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
  (/usr/local/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
@@ -352,27 +350,29 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 \Hy@linkcounter=\count289
 \Hy@pagecounter=\count290
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count291
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4167.
-Package hyperref Info: Link nesting OFF on input line 4172.
-Package hyperref Info: Hyper index ON on input line 4175.
-Package hyperref Info: Plain pages OFF on input line 4182.
-Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4434.
+Package hyperref Info: Bookmarks ON on input line 4425.
 \c@Hy@tempcnt=\count292
-LaTeX Info: Redefining \url on input line 4772.
+LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen193
  (/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -382,13 +382,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count293
 \Field@Width=\dimen194
 \Fld@charsize=\dimen195
-Package hyperref Info: Hyper figures OFF on input line 6051.
-Package hyperref Info: Link nesting OFF on input line 6056.
-Package hyperref Info: Hyper index ON on input line 6059.
-Package hyperref Info: backreferencing OFF on input line 6066.
-Package hyperref Info: Link coloring OFF on input line 6071.
-Package hyperref Info: Link coloring with OCG OFF on input line 6076.
-Package hyperref Info: PDF/A mode OFF on input line 6081.
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
@@ -399,7 +399,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -428,9 +428,9 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
 (Font)              scaled to size 12.0pt on input line 47.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count300
-\l__pdf_internal_box=\box102
+\l__pdf_internal_box=\box101
 ) (./CRJU-POSC_320.aux)
 \openout1 = `CRJU-POSC_320.aux'.
 
@@ -493,15 +493,15 @@ LaTeX Font Info:    ... okay on input line 47.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count303
 \scratchdimen=\dimen196
-\scratchbox=\box103
+\scratchbox=\box102
 \nofMPsegments=\count304
 \nofMParguments=\count305
-\everyMPshowfont=\toks29
+\everyMPshowfont=\toks28
 \MPscratchCnt=\count306
 \MPscratchDim=\dimen197
 \MPnumerator=\count307
 \makeMPintoPDFobject=\count308
-\everyMPtoPDFconversion=\toks30
+\everyMPtoPDFconversion=\toks29
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -552,7 +552,7 @@ LaTeX Font Info:    Font shape `TS1/Roboto-LF/regular/n' will be
 (Font)              scaled to size 12.0pt on input line 61.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 63.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
 (Font)              `T1/Roboto-LF/regular/n' on input line 73.
@@ -585,22 +585,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 225.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 225.
- [7] [8] [9] (./CRJU-POSC_320.aux)
- ***********
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-06-30>
- ***********
- ) 
+ [7] [8] [9] (./CRJU-POSC_320.aux) ) 
 Here is how much of TeX's memory you used:
- 14563 strings out of 475237
- 240154 string characters out of 5764553
- 1928244 words of memory out of 5000000
- 35532 multiletter control sequences out of 15000+600000
- 609338 words of font info for 68 fonts, out of 8000000 for 9000
+ 14669 strings out of 476025
+ 245277 string characters out of 5790017
+ 1861388 words of memory out of 5000000
+ 34836 multiletter control sequences out of 15000+600000
+ 563556 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,11n,117p,895b,664s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,11n,117p,890b,664s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Italic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on CRJU-POSC_320.pdf (9 pages, 123649 bytes).
+Output written on CRJU-POSC_320.pdf (9 pages, 123676 bytes).
 PDF statistics:
  159 PDF objects out of 1000 (max. 8388607)
  135 compressed objects within 2 object streams
