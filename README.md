@@ -6,13 +6,13 @@ Welcome to the GitHub repository containing a curated collection of syllabi for 
 ## Syllabi
 
 ### Undergraduate Courses
-- **POSC 315: Introduction to Public Administration** - Explore the basics of public administration, including its role in government efficiency and public service.
-- **POSC 320: Policy and Administration** - Delve into the relationship between policy-making and administrative processes.
+- [**POSC 315: Introduction to Public Administration**](https://github.com/CSUF-MPA/syllabi/tree/main/POSC%20315) - Explore the basics of public administration, including its role in government efficiency and public service.
+- [**POSC 320: Policy and Administration**](https://github.com/CSUF-MPA/syllabi/tree/main/CRJU_POSC%20320) - Delve into the relationship between policy-making and administrative processes.
 
 ### Graduate Courses
-- **POSC 509: Foundations of Public Administration** - A comprehensive overview of public administration principles and practices.
-- **POSC 521: Public Administration Theory: MPA Capstone** - An advanced course synthesizing public administration theories.
-- **POSC 588: Collaborative Governance** - Focus on collaborative strategies in governance and policy-making.
+- [**POSC 509: Foundations of Public Administration**](https://github.com/CSUF-MPA/syllabi/tree/main/POSC%20509) - A comprehensive overview of public administration principles and practices.
+- [**POSC 521: Public Administration Theory: MPA Capstone**](https://github.com/CSUF-MPA/syllabi/tree/main/POSC%20521) - An advanced course synthesizing public administration theories.
+- [**POSC 588: Collaborative Governance**](https://github.com/CSUF-MPA/syllabi/tree/main/POSC%20588) - Focus on collaborative strategies in governance and policy-making.
 
 ## Using the Repository
 
