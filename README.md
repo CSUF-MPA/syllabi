@@ -5,6 +5,9 @@ Welcome to the GitHub repository containing a curated collection of syllabi for 
 
 ## Syllabi
 
+### Template
+- [**Template**](https://github.com/CSUF-MPA/syllabi/tree/main/template) - A LaTeX template for creating your own syllabi.
+
 ### Undergraduate Courses
 - [**POSC 315: Introduction to Public Administration**](https://github.com/CSUF-MPA/syllabi/tree/main/POSC%20315) - Explore the basics of public administration, including its role in government efficiency and public service.
 - [**POSC 320: Policy and Administration**](https://github.com/CSUF-MPA/syllabi/tree/main/CRJU_POSC%20320) - Delve into the relationship between policy-making and administrative processes.
