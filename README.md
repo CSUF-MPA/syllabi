@@ -19,12 +19,6 @@ Welcome to the GitHub repository containing a curated collection of syllabi for 
 
 ## Using the Repository
 
-### Downloading the Repository
-Clone this repository to your local machine using the following command:
-```bash
-git clone https://github.com/CSUF-MPA/syllabi
-```
-
 ### Navigating the Repository
 The repository is organized by course number and semester. Each course folder contains the LaTeX source file (`syllabus.tex`) and a compiled PDF (`syllabus.pdf`) for easy viewing.
 
