@@ -46,5 +46,7 @@ This collection of syllabi is licensed under a [Creative Commons Attribution-Non
 ## Contact
 For inquiries or feedback:
 [David P. Adams, Ph.D.](mailto:dpadams@fullerton.edu)
+
 Associate Professor of Public Administration
+
 California State University, Fullerton
