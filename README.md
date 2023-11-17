@@ -25,9 +25,6 @@ The repository is organized by course number and semester. Each course folder co
 ### Customizing the Syllabi
 To create your own syllabi using this format, use the `syllabus.tex` files in the `template` folder. These files are well-commented to help you understand and modify the LaTeX code. The `syllabus.pdf` files provide a visual reference for the final format.
 
-## Accessibility
-We strive to make our syllabi accessible. If you encounter any accessibility issues, please contact us for an alternative format.
-
 ## Updates and Version Control
 This repository is regularly updated to reflect the most current syllabi. Check the commit history for a record of updates and changes.
 
