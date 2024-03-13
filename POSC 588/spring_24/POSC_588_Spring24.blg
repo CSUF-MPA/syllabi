@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: POSC_588_Spring24.aux
+The style file: apsr.bst
+Database file #1: 588.bib
+You've used 11 entries,
+            2874 wiz_defined-function locations,
+            715 strings with 6486 characters,
+and the built_in function-call counts, 41074 in all, are:
+= -- 6775
+> -- 405
+< -- 0
++ -- 3122
+- -- 144
+* -- 3409
+:= -- 8322
+add.period$ -- 44
+call.type$ -- 11
+change.case$ -- 143
+chr.to.int$ -- 11
+cite$ -- 11
+duplicate$ -- 173
+empty$ -- 351
+format.name$ -- 156
+if$ -- 7397
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 15
+newline$ -- 55
+num.names$ -- 138
+pop$ -- 67
+preamble$ -- 1
+purify$ -- 165
+quote$ -- 0
+skip$ -- 118
+stack$ -- 0
+substring$ -- 9429
+swap$ -- 14
+text.length$ -- 154
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 28
+warning$ -- 0
+while$ -- 248
+width$ -- 0
+write$ -- 163
