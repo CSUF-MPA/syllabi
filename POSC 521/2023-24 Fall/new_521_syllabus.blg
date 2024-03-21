@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2024/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: new_521_syllabus.aux
+The style file: apsr.bst
+Database file #1: 521.bib
+Warning--I didn't find a database entry for "Herzberg2003"
+Warning--I didn't find a database entry for "May2007"
+Warning--I didn't find a database entry for "Roman2015"
+Warning--I didn't find a database entry for "Jos2010"
+Warning--I didn't find a database entry for "Marvel2016"
+Warning--I didn't find a database entry for "NicholsonCrotty2004"
+You've used 46 entries,
+            2874 wiz_defined-function locations,
+            969 strings with 11883 characters,
+and the built_in function-call counts, 156063 in all, are:
+= -- 25358
+> -- 1519
+< -- 0
++ -- 11500
+- -- 571
+* -- 12919
+:= -- 31725
+add.period$ -- 190
+call.type$ -- 46
+change.case$ -- 602
+chr.to.int$ -- 45
+cite$ -- 46
+duplicate$ -- 784
+empty$ -- 1645
+format.name$ -- 638
+if$ -- 28056
+int.to.chr$ -- 6
+int.to.str$ -- 0
+missing$ -- 58
+newline$ -- 205
+num.names$ -- 499
+pop$ -- 222
+preamble$ -- 1
+purify$ -- 690
+quote$ -- 0
+skip$ -- 640
+stack$ -- 0
+substring$ -- 35428
+swap$ -- 140
+text.length$ -- 644
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 160
+warning$ -- 0
+while$ -- 1070
+width$ -- 0
+write$ -- 656
+(There were 6 warnings)
