@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2024/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: posc521_hybrid_syllabus.aux
+The style file: apsr.bst
+Database file #1: 521.bib
+Warning--empty publisher in friedrich1935responsible
+You've used 33 entries,
+            2874 wiz_defined-function locations,
+            863 strings with 9885 characters,
+and the built_in function-call counts, 124021 in all, are:
+= -- 20272
+> -- 1239
+< -- 0
++ -- 9303
+- -- 458
+* -- 10379
+:= -- 24977
+add.period$ -- 136
+call.type$ -- 33
+change.case$ -- 431
+chr.to.int$ -- 33
+cite$ -- 34
+duplicate$ -- 582
+empty$ -- 1197
+format.name$ -- 501
+if$ -- 22341
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 39
+newline$ -- 145
+num.names$ -- 366
+pop$ -- 154
+preamble$ -- 1
+purify$ -- 495
+quote$ -- 0
+skip$ -- 498
+stack$ -- 0
+substring$ -- 28451
+swap$ -- 121
+text.length$ -- 462
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 120
+warning$ -- 1
+while$ -- 779
+width$ -- 0
+write$ -- 468
+(There was 1 warning)
