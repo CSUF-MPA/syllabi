@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  28 MAR 2024 12:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  28 MAR 2024 12:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -425,15 +425,15 @@ LaTeX Font Info:    ... okay on input line 40.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(90.3375pt, 433.62001pt, 90.3375pt)
-* v-part:(T,H,B)=(90.3375pt, 614.295pt, 90.3375pt)
+* h-part:(L,W,R)=(83.11005pt, 448.0749pt, 83.11005pt)
+* v-part:(T,H,B)=(83.11005pt, 628.7499pt, 83.11005pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=433.62001pt
-* \textheight=614.295pt
-* \oddsidemargin=18.0675pt
-* \evensidemargin=18.0675pt
-* \topmargin=-18.9325pt
+* \textwidth=448.0749pt
+* \textheight=628.7499pt
+* \oddsidemargin=10.84006pt
+* \evensidemargin=10.84006pt
+* \topmargin=-26.15994pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -491,10 +491,15 @@ LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
 (Font)              scaled to size 11.39996pt on input line 48.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 11.39996pt on input line 48.
+
+Overfull \hbox (3.6178pt too wide) in paragraph at lines 48--49
+[]\T1/phv/b/n/12 In-Person Ses-sions: \T1/phv/m/n/12 Au-gust 29; Septem-ber 5, 12, 19, 26; Oc-to-ber 3, 10, 17; Novem-
+ []
+
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 13.67995pt on input line 53.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 60.
- (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/base/t1cmtt.fd
+(/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
@@ -508,23 +513,19 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 87.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 11.39996pt on input line 87.
- [2] [3] [4] [5] [6] [7]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 231.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 231.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 231.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[8] [9] [10] [11] (./posc521_hybrid_syllabus.bbl [12] [13]
-Underfull \hbox (badness 1057) in paragraph at lines 112--114
-[]\T1/phv/m/n/12 McCandless, Sean, Se-bawit G. Bishu, Melissa Gómez Hernán-dez, Érika Pare-
+ [2] [3]
+Overfull \hbox (0.28053pt too wide) in paragraph at lines 152--153
+\T1/phv/m/n/12 email. Stu-dents are re-spon-si-ble for reg-u-larly check-ing their \T1/phv/m/sl/12 Can-vas \T1/phv/m/n/12 no-ti-fi-ca-tions and email.
  []
 
-[14]) [15] (./posc521_hybrid_syllabus.aux)
+[4] [5] [6] [7]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 234.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 234.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 234.
+ [8] [9] [10] [11] (./posc521_hybrid_syllabus.bbl [12] [13] [14]) [15] (./posc521_hybrid_syllabus.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -537,12 +538,12 @@ Here is how much of TeX's memory you used:
  36125 multiletter control sequences out of 15000+600000
  584720 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,8n,93p,887b,657s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,8n,93p,887b,645s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on posc521_hybrid_syllabus.pdf (15 pages, 96429 bytes).
+Output written on posc521_hybrid_syllabus.pdf (15 pages, 96015 bytes).
 PDF statistics:
- 371 PDF objects out of 1000 (max. 8388607)
- 342 compressed objects within 4 object streams
+ 370 PDF objects out of 1000 (max. 8388607)
+ 341 compressed objects within 4 object streams
  126 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
