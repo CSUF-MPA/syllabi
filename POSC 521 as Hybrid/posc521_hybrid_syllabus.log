@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  28 MAR 2024 11:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  28 MAR 2024 12:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -508,44 +508,41 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 87.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 11.39996pt on input line 87.
- [2] [3] [4] [5]
+ [2] [3] [4] [5] [6] [7]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 192.
+(Font)              <12> on input line 233.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 192.
+(Font)              <8> on input line 233.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 192.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+(Font)              <6> on input line 233.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[6] [7] [8] [9] [10] (./posc521_hybrid_syllabus.bbl [11] [12]
+[8] [9] [10] [11] (./posc521_hybrid_syllabus.bbl [12] [13]
 Underfull \hbox (badness 1057) in paragraph at lines 112--114
 []\T1/phv/m/n/12 McCandless, Sean, Se-bawit G. Bishu, Melissa Gómez Hernán-dez, Érika Pare-
  []
 
-) [13] (./posc521_hybrid_syllabus.aux)
+[14]) [15] (./posc521_hybrid_syllabus.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14062 strings out of 474116
- 230748 string characters out of 5733619
+ 14078 strings out of 474116
+ 230880 string characters out of 5733619
  1937187 words of memory out of 5000000
- 36123 multiletter control sequences out of 15000+600000
+ 36125 multiletter control sequences out of 15000+600000
  584720 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,8n,93p,867b,598s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,8n,93p,887b,651s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on posc521_hybrid_syllabus.pdf (13 pages, 92352 bytes).
+Output written on posc521_hybrid_syllabus.pdf (15 pages, 96549 bytes).
 PDF statistics:
- 334 PDF objects out of 1000 (max. 8388607)
- 307 compressed objects within 4 object streams
- 111 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 372 PDF objects out of 1000 (max. 8388607)
+ 343 compressed objects within 4 object streams
+ 125 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
