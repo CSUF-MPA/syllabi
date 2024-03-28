@@ -1,7 +1,7 @@
-PWD /Users/dpadams/Nextcloud/Classes/syllabi/POSC 521 as Hybrid
+PWD /Users/dpadams/Nextcloud/Syllabi/POSC 521 as Hybrid
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/web2c/texmf.cnf
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/dpadams/Nextcloud/Classes/syllabi/POSC 521 as Hybrid/posc521_hybrid_syllabus.tex
+INPUT /Users/dpadams/Nextcloud/Syllabi/POSC 521 as Hybrid/posc521_hybrid_syllabus.tex
 OUTPUT posc521_hybrid_syllabus.log
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/base/article.cls
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/base/article.cls
