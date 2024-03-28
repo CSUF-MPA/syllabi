@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex posc521_hybrid_syllabus"] 1711654810.43181 "posc521_hybrid_syllabus.aux" "posc521_hybrid_syllabus.bbl" "posc521_hybrid_syllabus" 1711654811.32553 0
+["bibtex posc521_hybrid_syllabus"] 1711655077.05546 "posc521_hybrid_syllabus.aux" "posc521_hybrid_syllabus.bbl" "posc521_hybrid_syllabus" 1711655077.88251 0
   "./521.bib" 1711649512.21335 71450 1b1db11f755803162811474bc884272e ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/bibtex/bst/harvard/apsr.bst" 1710106625 25357 c990a86d1a60aa9370f76a9507b609ec ""
-  "posc521_hybrid_syllabus.aux" 1711654811.15063 9055 c6a775fbca95263dd5ca8e6a532e9cb8 "pdflatex"
+  "posc521_hybrid_syllabus.aux" 1711655077.70459 9055 9a0f7d3bef8b7c473532d44cdab73748 "pdflatex"
   (generated)
   "posc521_hybrid_syllabus.bbl"
   "posc521_hybrid_syllabus.blg"
   (rewritten before read)
-["pdflatex"] 1711654810.50992 "/Users/dpadams/Nextcloud/Syllabi/POSC 521 as Hybrid/posc521_hybrid_syllabus.tex" "posc521_hybrid_syllabus.pdf" "posc521_hybrid_syllabus" 1711654811.32568 0
-  "/Users/dpadams/Nextcloud/Syllabi/POSC 521 as Hybrid/posc521_hybrid_syllabus.tex" 1711654809.35421 23485 7f5bd8c7229ccedbf3ead71d995c2423 ""
+["pdflatex"] 1711655077.13934 "/Users/dpadams/Nextcloud/Syllabi/POSC 521 as Hybrid/posc521_hybrid_syllabus.tex" "posc521_hybrid_syllabus.pdf" "posc521_hybrid_syllabus" 1711655077.88264 0
+  "/Users/dpadams/Nextcloud/Syllabi/POSC 521 as Hybrid/posc521_hybrid_syllabus.tex" 1711655075.94997 23340 de7904a2a9954cf4f8ba24c060c7630d ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1710106625 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1710106625 2971 def0b6c1f0b107b3b936def894055589 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -115,9 +115,9 @@
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1710106625 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/web2c/texmf.cnf" 1710106625 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221866 9aed0a1b2ac5e8bec4cefaf91f11118a ""
-  "posc521_hybrid_syllabus.aux" 1711654811.15063 9055 c6a775fbca95263dd5ca8e6a532e9cb8 "pdflatex"
-  "posc521_hybrid_syllabus.bbl" 1711654810.5052 8268 afdf0f203c783980f913a38ccb685c44 "bibtex posc521_hybrid_syllabus"
-  "posc521_hybrid_syllabus.tex" 1711654809.35421 23485 7f5bd8c7229ccedbf3ead71d995c2423 ""
+  "posc521_hybrid_syllabus.aux" 1711655077.70459 9055 9a0f7d3bef8b7c473532d44cdab73748 "pdflatex"
+  "posc521_hybrid_syllabus.bbl" 1711655077.13487 8268 afdf0f203c783980f913a38ccb685c44 "bibtex posc521_hybrid_syllabus"
+  "posc521_hybrid_syllabus.tex" 1711655075.94997 23340 de7904a2a9954cf4f8ba24c060c7630d ""
   (generated)
   "posc521_hybrid_syllabus.aux"
   "posc521_hybrid_syllabus.log"
