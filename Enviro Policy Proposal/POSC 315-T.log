@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  25 APR 2024 12:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  25 APR 2024 12:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -558,21 +558,17 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 71
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 83.
+(Font)              `T1/Roboto-LF/regular/n' on input line 84.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 17.28pt on input line 83.
+(Font)              scaled to size 17.28pt on input line 84.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 83.
+(Font)              `T1/Roboto-LF/bold/n' on input line 84.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 17.28pt on input line 83.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
-(Font)              `T1/Roboto-LF/regular/it' on input line 93.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
-(Font)              scaled to size 12.0pt on input line 93.
-<csuf_logo.png, id=18, 513.41812pt x 83.31125pt>
+(Font)              scaled to size 17.28pt on input line 84.
+<csuf_logo.png, id=9, 513.41812pt x 83.31125pt>
 File: csuf_logo.png Graphic file (type png)
 <use csuf_logo.png>
-Package pdftex.def Info: csuf_logo.png  used on input line 94.
+Package pdftex.def Info: csuf_logo.png  used on input line 92.
 (pdftex.def)             Requested size: 227.62204pt x 36.93546pt.
 
 
@@ -584,35 +580,45 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1
 
-{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/roboto/rbto_b5rac7.enc}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/roboto/rbto_shbyjm.enc}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/roboto/rbto_ocbbsb.enc}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./csuf_logo.png>] [2]
-Overfull \hbox (3.55087pt too wide) in paragraph at lines 134--135
+{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/roboto/rbto_b5rac7.enc}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/roboto/rbto_shbyjm.enc}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/roboto/rbto_ocbbsb.enc}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./csuf_logo.png>]
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
+(Font)              `T1/Roboto-LF/regular/it' on input line 105.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
+(Font)              scaled to size 12.0pt on input line 105.
+ [2]
+Overfull \hbox (8.78741pt too wide) in paragraph at lines 122--123
+[]\T1/Roboto-LF/regular/n/12 Basic knowl-edge of on-line com-mu-ni-ca-tion tools, such as email and dis-cus-sion boards. 
+ []
+
+[3]
+Overfull \hbox (3.55087pt too wide) in paragraph at lines 147--148
 \T1/Roboto-LF/regular/n/12 Ti-tle IV and Gen-der Eq-uity, Di-ver-sity Ini-tia-tives and Re-source Cen-ters, and Ba-sic Needs
  []
 
-[3] [4] [5]
-Overfull \hbox (0.48518pt too wide) in paragraph at lines 221--222
+[4] [5] [6]
+Overfull \hbox (0.48518pt too wide) in paragraph at lines 240--241
 []\T1/Roboto-LF/bold/n/12 Evaluation Cri-te-ria: \T1/Roboto-LF/regular/n/12 Projects will be eval-u-ated based on clar-ity of com-mu-ni-ca-tion, depth
  []
 
-[6] [7] [8] [9] [10] (./POSC 315-T.aux)
+[7] [8] [9] [10] (./POSC 315-T.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14861 strings out of 474116
- 248742 string characters out of 5733619
- 1939187 words of memory out of 5000000
+ 14864 strings out of 474116
+ 248775 string characters out of 5733619
+ 1937187 words of memory out of 5000000
  36944 multiletter control sequences out of 15000+600000
  609926 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,14n,117p,859b,593s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,14n,117p,859b,606s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/google/roboto/Roboto-Italic.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/google/roboto/Roboto-Regular.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "POSC 315-T.pdf" (10 pages, 129229 bytes).
+Output written on "POSC 315-T.pdf" (10 pages, 130909 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
- 147 compressed objects within 2 object streams
- 66 named destinations out of 1000 (max. 500000)
+ 177 PDF objects out of 1000 (max. 8388607)
+ 151 compressed objects within 2 object streams
+ 69 named destinations out of 1000 (max. 500000)
  14 words of extra memory for PDF output out of 10000 (max. 10000000)
 

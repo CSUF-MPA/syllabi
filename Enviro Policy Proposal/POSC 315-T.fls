@@ -200,7 +200,6 @@ INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/base/t1cm
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/tfm/jknappen/ec/ectt1200.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/tfm/google/roboto/Roboto-Bold-lf-t1.tfm
-INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/tfm/google/roboto/Roboto-Italic-lf-t1.tfm
 INPUT ./csuf_logo.png
 INPUT ./csuf_logo.png
 INPUT ./csuf_logo.png
@@ -227,6 +226,7 @@ INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/tfm/google/ro
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/vf/google/roboto/Roboto-Bold-lf-t1.vf
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/tfm/google/roboto/Roboto-Bold-lf-t1--base.tfm
+INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/tfm/google/roboto/Roboto-Italic-lf-t1.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/vf/google/roboto/Roboto-Italic-lf-t1.vf
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/tfm/google/roboto/Roboto-Italic-lf-t1--base.tfm
 INPUT POSC 315-T.aux

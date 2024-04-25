@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1714073514.97282 "/Users/dpadams/Nextcloud/Syllabi/Enviro Policy Proposal/POSC 315-T.tex" "POSC 315-T.pdf" "POSC 315-T" 1714073517.20747 0
-  "/Users/dpadams/Nextcloud/Syllabi/Enviro Policy Proposal/POSC 315-T.tex" 1714073028.53846 18086 742b35a620c55bcd839a622b55df2b1d ""
+["pdflatex"] 1714074376.86706 "/Users/dpadams/Nextcloud/Syllabi/Enviro Policy Proposal/POSC 315-T.tex" "POSC 315-T.pdf" "POSC 315-T" 1714074377.86083 0
+  "/Users/dpadams/Nextcloud/Syllabi/Enviro Policy Proposal/POSC 315-T.tex" 1714074376.70136 19521 f41f816a3cfd71430ad4674497893054 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1710106625 2971 def0b6c1f0b107b3b936def894055589 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/roboto/rbto_b5rac7.enc" 1710106625 3075 0696ceafc85b8352a913efb9ba64bc17 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/roboto/rbto_ocbbsb.enc" 1710106625 3314 42351250ac95a91f488e14b5633f75ce ""
@@ -116,8 +116,8 @@
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1710106625 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/web2c/texmf.cnf" 1710106625 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221866 9aed0a1b2ac5e8bec4cefaf91f11118a ""
-  "POSC 315-T.aux" 1714073517.09545 756 f3ad3a49bbaf884de4f7c6a746026461 "pdflatex"
-  "POSC 315-T.tex" 1714073028.53846 18086 742b35a620c55bcd839a622b55df2b1d ""
+  "POSC 315-T.aux" 1714074377.68398 756 207ad8f5d876c271c139b15ee483512a "pdflatex"
+  "POSC 315-T.tex" 1714074376.70136 19521 f41f816a3cfd71430ad4674497893054 ""
   "csuf_logo.png" 1699764529 13469 65e84d6a6dac7b4f7efd8b3d60de417e ""
   (generated)
   "POSC 315-T.aux"
