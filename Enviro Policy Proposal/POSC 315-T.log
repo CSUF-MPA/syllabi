@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  25 APR 2024 10:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  25 APR 2024 12:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/dpadams/Nextcloud/Syllabi/POSC 521 MPA Capstone/POSC 521 as Hybrid/posc521_hybrid_syllabus.tex"
-(/Users/dpadams/Nextcloud/Syllabi/POSC 521 MPA Capstone/POSC 521 as Hybrid/posc521_hybrid_syllabus.tex
+**"/Users/dpadams/Nextcloud/Syllabi/Enviro Policy Proposal/POSC 315-T.tex"
+(/Users/dpadams/Nextcloud/Syllabi/Enviro Policy Proposal/POSC 315-T.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/base/article.cls
@@ -66,7 +66,37 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen148
 \Gm@layoutvoffset=\dimen149
 \Gm@dimlist=\toks18
-) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/roboto/roboto.sty
+Package: roboto 2022/09/10 (Bob Tennent) Supports Roboto fonts for all LaTeX engines.
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count267
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
  (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -89,8 +119,8 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks19
-\inpenc@posthook=\toks20
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
  (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/tools/array.sty
@@ -98,7 +128,7 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen150
 \ar@mcellbox=\box51
 \extrarowheight=\dimen151
-\NC@list=\toks21
+\NC@list=\toks23
 \extratabsurround=\skip50
 \backup@length=\skip51
 \ar@cellbox=\box52
@@ -108,8 +138,8 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \TX@old@col=\dimen154
 \TX@target=\dimen155
 \TX@delta=\dimen156
-\TX@cols=\count267
-\TX@ftn=\toks22
+\TX@cols=\count268
+\TX@ftn=\toks24
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen157
@@ -122,23 +152,23 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen164
 \cmidrulekern=\dimen165
 \defaultaddspace=\dimen166
-\@cmidla=\count268
-\@cmidlb=\count269
+\@cmidla=\count269
+\@cmidlb=\count270
 \@aboverulesep=\dimen167
 \@belowrulesep=\dimen168
-\@thisruleclass=\count270
-\@lastruleclass=\count271
+\@thisruleclass=\count271
+\@lastruleclass=\count272
 \@thisrulewidth=\dimen169
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count272
+\c@tracingmulticols=\count273
 \mult@box=\box53
 \multicol@leftmargin=\dimen170
-\c@unbalance=\count273
-\c@collectmore=\count274
-\doublecol@number=\count275
-\multicoltolerance=\count276
-\multicolpretolerance=\count277
+\c@unbalance=\count274
+\c@collectmore=\count275
+\doublecol@number=\count276
+\multicoltolerance=\count277
+\multicolpretolerance=\count278
 \full@width=\dimen171
 \page@free=\dimen172
 \premulticols=\dimen173
@@ -189,15 +219,15 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box94
 \@tempa=\box95
 \@tempa=\box96
-\c@minrows=\count278
-\c@columnbadness=\count279
-\c@finalcolumnbadness=\count280
+\c@minrows=\count279
+\c@columnbadness=\count280
+\c@finalcolumnbadness=\count281
 \last@try=\dimen176
 \multicolovershoot=\dimen177
 \multicolundershoot=\dimen178
 \mult@nat@firstbox=\box97
 \colbreak@box=\box98
-\mc@col@check@num=\count281
+\mc@col@check@num=\count282
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen179
@@ -207,7 +237,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip54
 \bibsep=\skip55
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count282
+\c@NAT@ctr=\count283
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/caption/caption3.sty
@@ -222,14 +252,14 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@hangindent=\dimen188
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count283
-\c@continuedfloat=\count284
+\c@caption@flags=\count284
+\c@continuedfloat=\count285
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count285
+\c@subfigure=\count286
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count286
+\c@subtable=\count287
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/paralist/paralist.sty
@@ -238,12 +268,12 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \plpartopsep=\skip57
 \plitemsep=\skip58
 \plparsep=\skip59
-\pl@lab=\toks23
+\pl@lab=\toks25
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/quoting/quoting.sty
 Package: quoting 2014/01/28 v0.1c Consolidated environment for displayed text
  (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count287
+\etb@tempcnta=\count288
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
  (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
@@ -258,10 +288,21 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip61
 \enit@outerparindent=\dimen189
-\enit@toks=\toks24
+\enit@toks=\toks26
 \enit@inbox=\box99
-\enit@count@id=\count288
-\enitdp@description=\count289
+\enit@count@id=\count289
+\enitdp@description=\count290
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip62
+\f@nch@O@elh=\skip63
+\f@nch@O@erh=\skip64
+\f@nch@O@olh=\skip65
+\f@nch@O@orh=\skip66
+\f@nch@O@elf=\skip67
+\f@nch@O@erf=\skip68
+\f@nch@O@olf=\skip69
+\f@nch@O@orf=\skip70
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/graphics/graphics.sty
@@ -277,10 +318,10 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 \Gin@req@width=\dimen191
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count290
-\float@exts=\toks25
+\c@float@type=\count291
+\float@exts=\toks27
 \float@box=\box100
-\@float@everytoks=\toks26
+\@float@everytoks=\toks28
 \@floatcapt=\box101
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
@@ -309,11 +350,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count291
+\c@section@level=\count292
 )
 \@linkdim=\dimen192
-\Hy@linkcounter=\count292
-\Hy@pagecounter=\count293
+\Hy@linkcounter=\count293
+\Hy@pagecounter=\count294
  (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -321,7 +362,7 @@ Now handling font encoding PD1 ...
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count294
+\Hy@SavedSpaceFactor=\count295
  (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -334,7 +375,7 @@ Package hyperref Info: Plain pages OFF on input line 4194.
 Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count295
+\c@Hy@tempcnt=\count296
 LaTeX Info: Redefining \url on input line 4784.
 \XeTeXLinkMargin=\dimen193
  (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/bitset/bitset.sty
@@ -342,7 +383,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count296
+\Fld@menulength=\count297
 \Field@Width=\dimen194
 \Fld@charsize=\dimen195
 Package hyperref Info: Hyper figures OFF on input line 6063.
@@ -356,9 +397,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6093.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count297
-\c@Item=\count298
-\c@Hfootnote=\count299
+\Hy@abspage=\count298
+\c@Item=\count299
+\c@Hfootnote=\count300
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/hyperref/hpdftex.def
@@ -367,8 +408,8 @@ File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count300
-\c@bookmark@seq@number=\count301
+\Fld@listcount=\count301
+\c@bookmark@seq@number=\count302
  (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -376,46 +417,45 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip62
+\Hy@SectionHShift=\skip71
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
-\BKM@id=\count302
+\BKM@id=\count303
 ))
-Package hyperref Info: Option `colorlinks' set `true' on input line 35.
- (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/psnfss/helvet.sty
-Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+Package hyperref Info: Option `colorlinks' set `true' on input line 51.
+LaTeX Font Info:    Trying to load font information for T1+Roboto-LF on input line 55.
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/roboto/T1Roboto-LF.fd
+File: T1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for T1/Roboto-LF.
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 40.
- (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/psnfss/t1phv.fd
-File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
-)
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 40.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 55.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 55.
  (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count303
+\l__color_backend_stack_int=\count304
 \l__pdf_internal_box=\box102
-) (./posc521_hybrid_syllabus.aux)
-\openout1 = `posc521_hybrid_syllabus.aux'.
+) (./POSC 315-T.aux)
+\openout1 = `"POSC 315-T.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -425,15 +465,15 @@ LaTeX Font Info:    ... okay on input line 40.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(83.11005pt, 448.0749pt, 83.11005pt)
-* v-part:(T,H,B)=(83.11005pt, 628.7499pt, 83.11005pt)
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=448.0749pt
-* \textheight=628.7499pt
-* \oddsidemargin=10.84006pt
-* \evensidemargin=10.84006pt
-* \topmargin=-26.15994pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -451,19 +491,21 @@ LaTeX Font Info:    ... okay on input line 40.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+\c@mv@tabular=\count305
+\c@mv@boldtabular=\count306
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count304
+\scratchcounter=\count307
 \scratchdimen=\dimen196
 \scratchbox=\box103
-\nofMPsegments=\count305
-\nofMParguments=\count306
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count307
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count310
 \MPscratchDim=\dimen197
-\MPnumerator=\count308
-\makeMPintoPDFobject=\count309
-\everyMPtoPDFconversion=\toks28
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks30
 ) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -474,83 +516,103 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 40.
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 19.70294pt on input line 45.
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 13.67995pt on input line 45.
+Package hyperref Info: Link coloring ON on input line 55.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 62.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 20.74pt on input line 62.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 62.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 20.74pt on input line 62.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 62.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 14.4pt on input line 62.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 45.
+(Font)              <14.4> on input line 62.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 45.
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 48.
- (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/psnfss/ts1phv.fd
-File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+(Font)              <7> on input line 62.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/sc' aliased to
+(Font)              `T1/Roboto-LF/regular/sc' on input line 62.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/sc' will be
+(Font)              scaled to size 14.4pt on input line 62.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 64.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 14.4pt on input line 64.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 66.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 66.
+LaTeX Font Info:    Trying to load font information for TS1+Roboto-LF on input line 69.
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/roboto/TS1Roboto-LF.fd
+File: TS1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for TS1/Roboto-LF.
 )
-LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 48.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 48.
-
-Overfull \hbox (3.6178pt too wide) in paragraph at lines 48--49
-[]\T1/phv/b/n/12 In-Person Ses-sions: \T1/phv/m/n/12 Au-gust 29; Septem-ber 5, 12, 19, 26; Oc-to-ber 3, 10, 17; Novem-
- []
-
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 13.67995pt on input line 53.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 60.
-(/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/base/t1cmtt.fd
+LaTeX Font Info:    Font shape `TS1/Roboto-LF/m/n' aliased to
+(Font)              `TS1/Roboto-LF/regular/n' on input line 69.
+LaTeX Font Info:    Font shape `TS1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 69.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 71.
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 67.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 16.41594pt on input line 67.
- [1
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 83.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 17.28pt on input line 83.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 83.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 17.28pt on input line 83.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
+(Font)              `T1/Roboto-LF/regular/it' on input line 93.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
+(Font)              scaled to size 12.0pt on input line 93.
+<csuf_logo.png, id=18, 513.41812pt x 83.31125pt>
+File: csuf_logo.png Graphic file (type png)
+<use csuf_logo.png>
+Package pdftex.def Info: csuf_logo.png  used on input line 94.
+(pdftex.def)             Requested size: 227.62204pt x 36.93546pt.
 
-{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 91.
-LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 91.
- [2] [3] [4]
-Overfull \hbox (0.28053pt too wide) in paragraph at lines 156--157
-\T1/phv/m/n/12 email. Stu-dents are re-spon-si-ble for reg-u-larly check-ing their \T1/phv/m/sl/12 Can-vas \T1/phv/m/n/12 no-ti-fi-ca-tions and email.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 41.28549pt, for example:
+(fancyhdr)                \setlength{\headheight}{41.28549pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-29.28549pt}.
+
+[1
+
+{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/roboto/rbto_b5rac7.enc}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/roboto/rbto_shbyjm.enc}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/roboto/rbto_ocbbsb.enc}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./csuf_logo.png>] [2]
+Overfull \hbox (3.55087pt too wide) in paragraph at lines 134--135
+\T1/Roboto-LF/regular/n/12 Ti-tle IV and Gen-der Eq-uity, Di-ver-sity Ini-tia-tives and Re-source Cen-ters, and Ba-sic Needs
  []
 
-[5] [6] [7]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 244.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 244.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 244.
+[3] [4] [5]
+Overfull \hbox (0.48518pt too wide) in paragraph at lines 221--222
+[]\T1/Roboto-LF/bold/n/12 Evaluation Cri-te-ria: \T1/Roboto-LF/regular/n/12 Projects will be eval-u-ated based on clar-ity of com-mu-ni-ca-tion, depth
+ []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[8] [9] [10] [11] [12] (./posc521_hybrid_syllabus.bbl [13] [14]) [15] (./posc521_hybrid_syllabus.aux)
+[6] [7] [8] [9] [10] (./POSC 315-T.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14083 strings out of 474116
- 230995 string characters out of 5733619
- 1937187 words of memory out of 5000000
- 36126 multiletter control sequences out of 15000+600000
- 584720 words of font info for 66 fonts, out of 8000000 for 9000
+ 14861 strings out of 474116
+ 248742 string characters out of 5733619
+ 1939187 words of memory out of 5000000
+ 36944 multiletter control sequences out of 15000+600000
+ 609926 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,8n,93p,909b,655s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on posc521_hybrid_syllabus.pdf (15 pages, 99630 bytes).
+ 83i,14n,117p,859b,593s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/google/roboto/Roboto-Italic.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/google/roboto/Roboto-Regular.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on "POSC 315-T.pdf" (10 pages, 129229 bytes).
 PDF statistics:
- 378 PDF objects out of 1000 (max. 8388607)
- 349 compressed objects within 4 object streams
- 129 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 173 PDF objects out of 1000 (max. 8388607)
+ 147 compressed objects within 2 object streams
+ 66 named destinations out of 1000 (max. 500000)
+ 14 words of extra memory for PDF output out of 10000 (max. 10000000)
 
