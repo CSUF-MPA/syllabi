@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1715356912.95803 "/Users/dpadams/Nextcloud/Syllabi/POSC 315 Intro Policy/asynch proposal/posc315_asynch_proposal.tex" "posc315_asynch_proposal.pdf" "posc315_asynch_proposal" 1715356913.60626 0
-  "/Users/dpadams/Nextcloud/Syllabi/POSC 315 Intro Policy/asynch proposal/posc315_asynch_proposal.tex" 1715356912.76465 21472 8f1696f4a58485e508df8703113a1744 ""
+["pdflatex"] 1715357893.05205 "/Users/dpadams/Nextcloud/Syllabi/POSC 315 Intro Policy/asynch proposal/posc315_asynch_proposal.tex" "posc315_asynch_proposal.pdf" "posc315_asynch_proposal" 1715357893.56534 0
+  "/Users/dpadams/Nextcloud/Syllabi/POSC 315 Intro Policy/asynch proposal/posc315_asynch_proposal.tex" 1715357891.84429 21548 eb9b8f95057d875444565a81ec913d8b ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1710106625 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1710106625 5472554 f7861620179a71a79d4bd86251f559d0 ""
@@ -79,8 +79,8 @@
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1710106625 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/web2c/texmf.cnf" 1710106625 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221866 9aed0a1b2ac5e8bec4cefaf91f11118a ""
-  "posc315_asynch_proposal.aux" 1715356913.55676 675 864814013b8ad29142e8eba69afa02d3 "pdflatex"
-  "posc315_asynch_proposal.tex" 1715356912.76465 21472 8f1696f4a58485e508df8703113a1744 ""
+  "posc315_asynch_proposal.aux" 1715357893.51551 675 6bd9b3e76800bec50eb551e04aefa1bc "pdflatex"
+  "posc315_asynch_proposal.tex" 1715357891.84429 21548 eb9b8f95057d875444565a81ec913d8b ""
   (generated)
   "posc315_asynch_proposal.aux"
   "posc315_asynch_proposal.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  10 MAY 2024 09:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  10 MAY 2024 09:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -315,9 +315,9 @@ LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 
 {/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 87.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 88.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 87.
+(Font)              scaled to size 11.39996pt on input line 88.
  [3] [4] [5] [6] [7] [8] [9] [10] [11] (./posc315_asynch_proposal.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -331,9 +331,9 @@ Here is how much of TeX's memory you used:
  32233 multiletter control sequences out of 15000+600000
  574726 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,886b,568s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,886b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on posc315_asynch_proposal.pdf (11 pages, 60902 bytes).
+Output written on posc315_asynch_proposal.pdf (11 pages, 60931 bytes).
 PDF statistics:
  185 PDF objects out of 1000 (max. 8388607)
  162 compressed objects within 2 object streams
