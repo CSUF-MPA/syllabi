@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1716685523.24566 "/Volumes/SamsungSSD/Nextcloud/Syllabi/CRJU_POSC 320 Intro PA/2024 Summer/CRJU-POSC_320.tex" "CRJU-POSC_320.pdf" "CRJU-POSC_320" 1716685524.13727 0
-  "/Volumes/SamsungSSD/Nextcloud/Syllabi/CRJU_POSC 320 Intro PA/2024 Summer/CRJU-POSC_320.tex" 1716685523 29715 a860f4bdff6476e70d4ab9c119231193 ""
+["pdflatex"] 1716685596.63286 "/Volumes/SamsungSSD/Nextcloud/Syllabi/CRJU_POSC 320 Intro PA/2024 Summer/CRJU-POSC_320.tex" "CRJU-POSC_320.pdf" "CRJU-POSC_320" 1716685597.5392 0
+  "/Volumes/SamsungSSD/Nextcloud/Syllabi/CRJU_POSC 320 Intro PA/2024 Summer/CRJU-POSC_320.tex" 1716685596 28802 d5d58c1152eb3d04fd0b1a86f37745d9 ""
   "/Volumes/SamsungSSD/Nextcloud/Syllabi/Images/stacked.png" 1716675725 33252 bac227fd9bfb280447e0ea0acb46657b ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
@@ -118,8 +118,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1710628739.07237 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1710628671 8221425 030a3b5d8b550a11b406e44c3b79488c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "CRJU-POSC_320.aux" 1716685524 6154 0e18026048c081443eb67333afb8d9f7 "pdflatex"
-  "CRJU-POSC_320.tex" 1716685523 29715 a860f4bdff6476e70d4ab9c119231193 ""
+  "CRJU-POSC_320.aux" 1716685597 6154 0e18026048c081443eb67333afb8d9f7 "pdflatex"
+  "CRJU-POSC_320.tex" 1716685596 28802 d5d58c1152eb3d04fd0b1a86f37745d9 ""
   (generated)
   "CRJU-POSC_320.aux"
   "CRJU-POSC_320.log"
