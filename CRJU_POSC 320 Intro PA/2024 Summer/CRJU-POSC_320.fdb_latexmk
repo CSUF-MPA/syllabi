@@ -1,7 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1716736712.79978 "/home/david/Nextcloud/Syllabi/CRJU_POSC 320 Intro PA/2024 Summer/CRJU-POSC_320.tex" "CRJU-POSC_320.pdf" "CRJU-POSC_320" 1716736714.48798 0
+["pdflatex"] 1716736962.60131 "/home/david/Nextcloud/Syllabi/CRJU_POSC 320 Intro PA/2024 Summer/CRJU-POSC_320.tex" "CRJU-POSC_320.pdf" "CRJU-POSC_320" 1716736964.19859 0
   "/etc/texmf/web2c/texmf.cnf" 1716735801.69031 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/david/Nextcloud/Syllabi/CRJU_POSC 320 Intro PA/2024 Summer/CRJU-POSC_320.tex" 1716736710.26454 31510 34a0a884986fe63dcd72ed50c9b790c0 ""
+  "/home/david/Nextcloud/Syllabi/CRJU_POSC 320 Intro PA/2024 Summer/CRJU-POSC_320.tex" 1716736960.39155 31590 066da53e925a97f803ba7320514996f2 ""
+  "/home/david/Nextcloud/Syllabi/Images/stacked.png" 1716735115.33323 33252 bac227fd9bfb280447e0ea0acb46657b ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm" 1136768653 4484 b828043cbd581d289d955903c1339981 ""
@@ -122,8 +123,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1716735841.43129 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1716736080 8211794 a3ef1a9cfdcad22fa0b8342aa79cc12c ""
-  "CRJU-POSC_320.aux" 1716736714.34831 5407 b0e6f90f4eb2a334387ad63935bcc8be "pdflatex"
-  "CRJU-POSC_320.tex" 1716736710.26454 31510 34a0a884986fe63dcd72ed50c9b790c0 ""
+  "CRJU-POSC_320.aux" 1716736964.07532 5407 045408b0d876916ed0bc4f047fcd0381 "pdflatex"
+  "CRJU-POSC_320.tex" 1716736960.39155 31590 066da53e925a97f803ba7320514996f2 ""
   (generated)
   "CRJU-POSC_320.aux"
   "CRJU-POSC_320.log"
