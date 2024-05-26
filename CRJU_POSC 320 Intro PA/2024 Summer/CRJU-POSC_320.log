@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.16)  25 MAY 2024 20:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.16)  25 MAY 2024 22:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -557,13 +557,13 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 10.40245pt on input line 115.
  [2] [3]
-Overfull \hbox (232.94469pt too wide) in paragraph at lines 181--182
+Overfull \hbox (232.94469pt too wide) in paragraph at lines 185--186
 \T1/phv/m/n/10.95 Please re-view these poli-cies as needed and visit this Cal State Fuller-ton web-site [][]\T1/cmtt/m/n/10.95 https://fdc.fullerton.edu/teaching/student-info-syllabi.html[][]
  []
 
 [4] [5] [6] [7] [8]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 336.
+(Font)              <10.95> on input line 340.
  [9] [10] [11] [12] (./CRJU-POSC_320.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -571,18 +571,18 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14366 strings out of 474116
- 234691 string characters out of 5743682
+ 14367 strings out of 474116
+ 234702 string characters out of 5743682
  1941187 words of memory out of 5000000
  36426 multiletter control sequences out of 15000+600000
  591473 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,11n,117p,879b,679s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,11n,117p,879b,685s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on CRJU-POSC_320.pdf (12 pages, 114479 bytes).
+Output written on CRJU-POSC_320.pdf (12 pages, 115207 bytes).
 PDF statistics:
- 244 PDF objects out of 1000 (max. 8388607)
- 217 compressed objects within 3 object streams
- 86 named destinations out of 1000 (max. 500000)
+ 248 PDF objects out of 1000 (max. 8388607)
+ 221 compressed objects within 3 object streams
+ 87 named destinations out of 1000 (max. 500000)
  110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
