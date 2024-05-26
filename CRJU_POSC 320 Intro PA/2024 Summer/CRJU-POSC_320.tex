@@ -1,4 +1,4 @@
-\documentclass[12pt, letterpaper]{article}
+\documentclass[11pt, letterpaper]{article}
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
 \usepackage[T1]{fontenc}
@@ -26,7 +26,6 @@
 \fancyhead{}
 \fancyfoot{}
 \fancyfoot[C]{\thepage}
-
 \usepackage{float}
 \usepackage{bookmark}
 \renewcommand{\thesection}{\arabic{section}.}
@@ -36,22 +35,29 @@
 \patchcmd{\thebibliography}{\section*{\refname}}{\section{\refname}}{}{}
 \usepackage{hyperref}
 \hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    filecolor=magenta,      
-    urlcolor=blue,
+  colorlinks=true,
+  linkcolor=blue,
+  filecolor=magenta,
+  urlcolor=blue,
 }
-
 \usepackage[scaled]{helvet} % Load the helvet package
 \renewcommand*\familydefault{\sfdefault} % Set the default font to be sans-serif
 
+% Custom header for the first page
+\fancypagestyle{firstpage}{
+  \fancyhf{}
+  \fancyhead[C]{\includegraphics[width=8cm]{stacked.png}}
+  \fancyfoot[C]{\thepage}
+}
+
 \begin{document}
-\title{\includegraphics[width=8cm]{/Volumes/SamsungSSD/Nextcloud/Syllabi/Images/stacked.png} \\ \textbf{Introduction to Public Administration}}
+\thispagestyle{firstpage}
 
+\title{\textbf{Introduction to Public Administration}}
 \author{CRJU/POSC 320 — Summer Session 2024}
-\date{Asynchronous Online Course \\ May 28th through August 2nd}
-
-    \maketitle
+\date{Asynchronous Online Course \\
+May 28th through August 2nd}
+\maketitle
 
 
 \subsection*{Professor: David P. Adams, Ph.D.}
@@ -245,7 +251,7 @@ Each module will include assigned readings. Students are expected to complete al
 \subsection*{Discussion Assignments:}
     \begin{itemize}
         \item \textbf{Overview:} Throughout the course, you will participate in five discussion assignments. These discussions are designed to foster engagement with the course material, encourage critical thinking, and facilitate interaction among your peers. Each discussion assignment is worth 10 points.
-        \item \textbf{Grading:} Your discussion posts will be graded using the following criteria:
+        \item \textbf{Grading:} Each discussion assignment is worth 10 points. Your discussion posts will be graded using the following criteria:
             \begin{itemize}
                 \item Relevance and insight
                 \item Evidence and examples
@@ -286,7 +292,36 @@ Each module will include assigned readings. Students are expected to complete al
             \item Successful incorporation of peer feedback
         \end{itemize}
     \item \textbf{Detailed instructions for each milestone and the peer review process will be provided on Kritik. This assignment provides a unique opportunity to learn from your peers and improve your work through an iterative process. Embrace the feedback, engage actively in the peer review, and strive to produce a high-quality organizational profile that showcases your understanding of public administration concepts.}
-    \item Grading: The term paper is worth 50\% of the final grade. The term paper will be graded based on the quality of the analysis, the depth of understanding of the organization, the clarity of the arguments, the use of evidence and examples, compliance with APA style guidelines, and the quality of writing. The peer review process will also be taken into account in the grading of the final submission.
+    \item \textbf{Due Dates:} The term paper will be divided into four milestones, each with its own due date. The final submission will at the end of week nine (9) the course. The submission calendar for each milestone is as follows:
+        \begin{itemize}
+            \item Milestone 1: Introduction and Organizational Overview
+                \begin{itemize}
+                    \item Assigned in Week 2 
+                    \item Due at the end of Week 3
+                    \item Peer review in Week 4
+                \end{itemize}
+            \item Milestone 2: Financial Management and Human Capital 
+                \begin{itemize}
+                    \item Assigned in Week 4
+                    \item Due at the end of Week 5
+                    \item Peer review in Week 6
+                \end{itemize}
+            
+            \item Milestone 3: Regulatory Role, Accountability, and Challenges
+                \begin{itemize}
+                    \item Assigned in Week 6
+                    \item Due at the end of Week 7
+                    \item Peer review in Week 8
+                \end{itemize}
+        
+            \item Milestone 4: Conclusion and Final Draft
+                \begin{itemize}
+                    \item Assigned in Week 8
+                    \item Due at the end of Week 9
+                    \item Peer review in Week 10
+                \end{itemize}
+            \end{itemize}
+    \item \textbf{Grading}: The term paper is worth 40\% of the final grade. The term paper will be graded based on the quality of the analysis, the depth of understanding of the organization, the clarity of the arguments, the use of evidence and examples, compliance with APA style guidelines, and the quality of writing. The peer review process will also be taken into account in the grading of the final submission.
 
 \end{itemize}
 
