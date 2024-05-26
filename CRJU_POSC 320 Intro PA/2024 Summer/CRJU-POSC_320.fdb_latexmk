@@ -1,6 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1716694762.51123 "/Volumes/SamsungSSD/Nextcloud/Syllabi/CRJU_POSC 320 Intro PA/2024 Summer/CRJU-POSC_320.tex" "CRJU-POSC_320.pdf" "CRJU-POSC_320" 1716694763.39184 0
-  "/Volumes/SamsungSSD/Nextcloud/Syllabi/CRJU_POSC 320 Intro PA/2024 Summer/CRJU-POSC_320.tex" 1716694762 29978 9182eb70d50d606e0fb0bdc64cb63ef2 ""
+["pdflatex"] 1716695102.44909 "/Volumes/SamsungSSD/Nextcloud/Syllabi/CRJU_POSC 320 Intro PA/2024 Summer/CRJU-POSC_320.tex" "CRJU-POSC_320.pdf" "CRJU-POSC_320" 1716695103.21059 0
+  "/Volumes/SamsungSSD/Nextcloud/Syllabi/CRJU_POSC 320 Intro PA/2024 Summer/CRJU-POSC_320.tex" 1716695101 30122 23752c09cfb370a4f25cef60f6f77433 ""
+  "/Volumes/SamsungSSD/Nextcloud/Syllabi/Images/stacked.png" 1716675725 33252 bac227fd9bfb280447e0ea0acb46657b ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -9,6 +10,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/helvetic/phvr8c.tfm" 1136768653 1348 c311631dfec4123b7faa7f864709e626 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm" 1136768653 4712 9ef4d7d106579d4b136e1529e1a4533c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm" 1136768653 7040 b2bd27e2bfe6f6948cbc3239cae7444f ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/helvetic/phvrc8t.tfm" 1136768653 16152 ab9d47b69dd04cab59fcf780bd0eed36 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/helvetic/phvro8r.tfm" 1136768653 4964 f223217e5e1f85fa3742fb0480aba9e8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/helvetic/phvro8t.tfm" 1136768653 7292 d408122871055bbc541d7280c154e210 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm" 1136768653 3584 929cdff2b7a8c11bd4d49fd68cb0ae70 ""
@@ -31,6 +33,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/helvetic/phvb8t.vf" 1136768653 2340 0efed6a948c3c37d870e4e7ddb85c7c3 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/helvetic/phvr8c.vf" 1136768653 3556 570286160ebfdd10d887aaa718e2e64d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/helvetic/phvr8t.vf" 1136768653 2344 44ff28c9ef2fc97180cd884f900fee71 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/helvetic/phvrc8t.vf" 1136768653 3612 a448b9c1ed57bed50ea118ae6680e645 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/helvetic/phvro8t.vf" 1136768653 2348 717f0e01beff9c30c0df4945e471886f ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -119,8 +122,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1710628739.07237 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1710628671 8221425 030a3b5d8b550a11b406e44c3b79488c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "CRJU-POSC_320.aux" 1716694763 6151 7926440da59f8258bb0dacc8b491648d "pdflatex"
-  "CRJU-POSC_320.tex" 1716694762 29978 9182eb70d50d606e0fb0bdc64cb63ef2 ""
+  "CRJU-POSC_320.aux" 1716695103 5894 e3389fa1d2b25653d6596006f5006739 "pdflatex"
+  "CRJU-POSC_320.tex" 1716695101 30122 23752c09cfb370a4f25cef60f6f77433 ""
   (generated)
   "CRJU-POSC_320.aux"
   "CRJU-POSC_320.log"
