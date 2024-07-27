@@ -28,30 +28,27 @@
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
-        linkcolor=blue,
-        filecolor=magenta,      
-        urlcolor=cyan,
-        citecolor=purple,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    citecolor=blue,
 }
 \usepackage[scaled]{helvet} % Load the helvet package
 \renewcommand*\familydefault{\sfdefault} % Set the default font to be sans-serif
 
 
 \begin{document}
-\title{\includegraphics[width=8cm]{Images/stacked.png} \\ \textbf{Introduction to Public Administration}}
-
 \title{MPA Capstone Seminar: \\ Public Administration Theory}
 \author{POSC 521 — Fall 2024}
-\date{Thursays at 7:00 in GH 248}
+\date{}
     \maketitle
 
-    \begin{tabular}{|>{\raggedright}m{4cm}|>{\raggedright\arraybackslash}m{10cm}|}
-        \hline
-        \textbf{In-Person Sessions:} & August 29; September 5, 12, 19, 26; October 3, 10, 17; November 14; December 12. \\
-        \hline
-        \textbf{Asynchronous Online Sessions:} & October 24, 31; November 7, 28; December 5, 19. \\
-        \hline
-    \end{tabular}
+    
+\begin{itemize}
+    \item \textbf{In-Person Sessions:} August 29; September 5, 12, 19, 26; October 3, 10, 17; November 14; December 5.
+    \item \textbf{Synchronous Online Session:} November 21.
+    \item \textbf{Asynchronous Online Sessions:} October 24, 31; November 7, 28; December 12.
+\end{itemize}
 
     \subsection*{Professor: David P. Adams, Ph.D.}
 
@@ -211,75 +208,21 @@ During the first eight weeks of the course, students will complete an annotated 
 
 \subsection*{MPA Comprehensive General Area Essay Exam}
 
-Students will complete a comprehensive general area essay exam as part of the MPA program's comprehensive exam requirement. The exam will consist of three questions from which students will choose one to answer. The questions will be based on the course readings and discussions and will require students to demonstrate their understanding of public administration's key concepts, theories, and debates. The exam will allow students to synthesize their learning in the course and demonstrate their ability to think critically and write clearly about complex issues in public administration. Students who do not pass the exam on the first attempt will have the opportunity to retake the exam once during finals week.
+Students will complete a comprehensive general area essay exam as part of the MPA program’s comprehensive exam requirement. The exam will consist of three questions from which students will choose one to answer. The questions will be based on the course readings and discussions and will require students to demonstrate their understanding of public administration's key concepts, theories, and debates. The exam will allow students to synthesize their learning in the course and demonstrate their ability to think critically and write clearly about complex issues in public administration.
 
 \subsection*{Concentration Area Literature Review}
 
-\subsubsection*{Literature Review}
-
-Students will complete a literature review in their concentration area as part of the MPA program's comprehensive exam requirement. The literature review will examine the practical and theoretical issues related to a specific public administration topic and synthesize the essential findings and debates in the literature. The literature review will allow students to deepen their knowledge of their concentration area and develop their research and writing skills. A peer review process will be used to provide feedback on the literature review, and students will have the opportunity to revise and resubmit their work based on the feedback received. Peer reviews will be conducted anonymously on \emph{Canvas}, and students will be assigned to review the work of their classmates. The final draft of the literature review will be submitted on \emph{Canvas} and graded by the professor. The length of the literature review will be 15-20 pages, double-spaced, in APA or Chicago author-date format.
-
-\paragraph*{Objectives:}
-\begin{itemize}
-    \item Deepen knowledge in a specific concentration area.
-    \item Develop research and writing skills.
-    \item Synthesize practical and theoretical issues in public administration.
-\end{itemize}
-
-\paragraph*{Requirements:}
-\begin{enumerate}
-    \item \textbf{Topic Selection:}
-    \begin{itemize}
-        \item Choose a topic within your concentration area in consultation with the professor.
-        \item Ensure the topic addresses both practical and theoretical dimensions.
-    \end{itemize}
-    \item \textbf{Theoretical Book Requirement:}
-    \begin{itemize}
-        \item Select a theoretical book related to your concentration area as part of your literature review.
-        \item Include an analysis of the book's contribution to the field and how it relates to your topic.
-    \end{itemize}
-    \item \textbf{Literature Sources:}
-    \begin{itemize}
-        \item Utilize a minimum of 15 peer-reviewed articles or books.
-        \item Incorporate recent studies to ensure up-to-date analysis.
-    \end{itemize}
-    \item \textbf{Structure:}
-    \begin{itemize}
-        \item Introduction: State the research question and its significance.
-        \item Literature Review: Summarize and synthesize key findings and debates.
-        \item Analysis: Critically evaluate the literature, identifying gaps and future research directions.
-        \item Conclusion: Summarize the main findings and their implications for public administration.
-    \end{itemize}
-    \item \textbf{Peer Review:}
-    \begin{itemize}
-        \item Submit a draft for peer review on Canvas.
-        \item Provide constructive feedback to at least two classmates.
-        \item Revise your literature review based on the feedback received.
-    \end{itemize}
-    \item \textbf{Final Draft Deliverable:}
-    \begin{itemize}
-        \item Submit a final draft of your literature review on Canvas.
-        \item Ensure the final draft meets the requirements outlined in the assignment guidelines.
-    \end{itemize}
-\end{enumerate}
-
-\paragraph*{Submission:}
-\begin{itemize}
-    \item Topic Outline: Week 12
-    \item Annotated Bibliography: Week 13
-    \item Peer Review: Week 14
-    \item Final Draft: Week 15
-\end{itemize}
+Students will complete a literature review in their concentration area as part of the MPA program's comprehensive exam requirement. The literature review will examine the practical and theoretical issues related to a specific public administration topic and synthesize the essential findings and debates in the literature. The literature review will allow students to deepen their knowledge of their concentration area and develop their research and writing skills. A peer review process will be used to provide feedback on the literature review, and students will have the opportunity to revise and resubmit their work based on the feedback received. Peer reviews will be conducted anonymously on \emph{Canvas}, and students will be assigned to review the work of their classmates.
 
 \section{Course Requirements Due Dates}
 
 The due dates for the course requirements are as follows:
     \begin{itemize}
-        \item Annotated Bibliography and Synthesis: 
+        \item Book Report or Annotated Bibliography and Synthesis: 
         \begin{itemize}
             \item Due each week by 6:59 p.m. on Thursday
             \item Personal Reflection: Due each week by 11:59 p.m. on Sunday
-        \end{itemize}
+        \end{itemize}Due each week by 6:59 p.m. on Thursday
         \item MPA Comprehensive General Area Essay Exam:
         \begin{itemize}
             \item Distributed on 10/31
@@ -336,14 +279,14 @@ D- & 50.0 -- 59.9 & F & 0 -- 49.9\\
     \toprule
 \textbf{Assignment} & \textbf{Percentage} \\
 \midrule
-Weekly Annotated Bibliographies & 5\% \\
-Weekly Syntheses & 20\% \\
-Weekly Personal Reflections & 5\% \\
-MPA Comprehensive General Area Essay Exam & 40\% \\
+Weekly Annotated Bibliography & 5\% \\
+Weekly Synthesis & 20\% \\
+Weekly Personal Reflection & 5\% \\
+MPA Comprehensive General Area Essay Exam & 45\% \\
 Concentration Area Literature Review Annotated Bibliography & 5\% \\
 Concentration Area Literature Review Draft & 5\% \\
 Concentration Area Literature Review Peer Review & 5\% \\
-Concentration Area Literature Review Final Draft & 15\% \\
+Concentration Area Literature Review Final Draft & 10\% \\
 \midrule
 \textbf{Total} & \textbf{100\%} \\
 \bottomrule
@@ -367,7 +310,7 @@ Concentration Area Literature Review Final Draft & 15\% \\
             \item \citet{simon1946a}, ``Proverbs of Administration'' 
         \end{itemize}
     \item Due Thursday: Annotated Bibliography and Synthesis
-    \item Due Sunday: Personal Reflection
+    \item Due Saturday: Personal Reflection
 \end{itemize}
 
 
@@ -380,7 +323,7 @@ Concentration Area Literature Review Final Draft & 15\% \\
             \item \citet{Denhardt2015}, \emph{The New Public Service}, Chapters 1--4 
         \end{itemize}
     \item Due Thursday: Annotated Bibliography and Synthesis
-    \item Due Sunday: Personal Reflection
+    \item Due Saturday: Personal Reflection
 \end{itemize}
 \subsection*{Week 3 -- 9/12: Ethics and Values in Public Administration}
 \begin{itemize}
@@ -394,7 +337,7 @@ Concentration Area Literature Review Final Draft & 15\% \\
             \item \citet{Denhardt2015}, \emph{The New Public Service}, Chapter 7 
         \end{itemize}
     \item Due Thursday: Annotated Bibliography and Synthesis
-    \item Due Sunday: Personal Reflection
+    \item Due Saturday: Personal Reflection
 \end{itemize}
 
 \subsection*{Week 4 -- 9/19: Leadership and Motivation}
@@ -402,14 +345,14 @@ Concentration Area Literature Review Final Draft & 15\% \\
     \item \textbf{In-person Session}: Leadership and Motivation
     \item Readings:
         \begin{itemize}
-            \item \citet{Christensen2017}, ``Public Service Motivation Research'' 
-            \item \citet{Denhardt2015}, \emph{The New Public Service}, Chapter 8 
-            \item \citet{Lachance2017}, ``Public Service Motivation'' 
-            \item \citet{maslow1943}, ``A Theory of Human Motivation'' 
-            \item \citet{Fairholm2004}, ``Different Perspectives on the Practice of Leadership'' 
+            \item Christensen, ``Public Service Motivation Research'' \citet{Christensen2017}
+            \item Denhardt, \emph{The New Public Service}, Chapter 8 \citet{Denhardt2015}
+            \item Lachance, ``Public Service Motivation'' \citet{Lachance2017}
+            \item Maslow, ``A Theory of Human Motivation'' \citet{maslow1943}
+            \item Fairholm, ``Different Perspectives on the Practice of Leadership'' \citet{Fairholm2004}
         \end{itemize}
     \item Due Thursday: Annotated Bibliography and Synthesis
-    \item Due Sunday: Personal Reflection
+    \item Due Saturday: Personal Reflection
 \end{itemize}
 
 \subsection*{Week 5 -- 9/26: Performance Management}
@@ -417,14 +360,14 @@ Concentration Area Literature Review Final Draft & 15\% \\
     \item \textbf{In-person Session}: Performance Management
     \item Readings:
         \begin{itemize}
-            \item \citet{Behn2003}, ``Why Measure Performance?'' 
-            \item \citet{Denhardt2015}, \emph{The New Public Service}, Chapter 9 
-            \item \citet{douglas2021}, ``Getting a Grip on Performance of Collaborations'' 
-            \item \citet{marvel2015}, ``Unconscious Bias in Citizens' Evaluations\dots'' 
-            \item \citet{nicholson-crotty2004}, ``Public Management and Organizational Performance'' 
+            \item Behn, ``Why Measure Performance?'' \citet{Behn2003}
+            \item Denhardt, \emph{The New Public Service}, Chapter 9 \citet{Denhardt2015}
+            \item Douglas, ``Getting a Grip on Performance of Collaborations'' \citet{douglas2021}
+            \item Marvel, ``Unconscious Bias in Citizens' Evaluations\dots'' \citet{marvel2015}
+            \item Nicholson-Crotty, ``Public Management and Organizational Performance'' \citet{nicholson-crotty2004}
         \end{itemize}
-    \item Due Thursday: Annotated Bibliography and Synthesis
-    \item Due Sunday: Personal Reflection
+    \item Due Thursday: Book Report
+    \item Due Saturday: Personal Reflection
 \end{itemize}
 
 \subsection*{Week 6 -- 10/3: Street-Level Bureaucrats}
@@ -432,38 +375,12 @@ Concentration Area Literature Review Final Draft & 15\% \\
     \item \textbf{In-person Session}: Street-Level Bureaucrats
     \item Readings:
         \begin{itemize}
-            \item \citet{Lipsky2010}, \emph{Street-Level Bureaucracy}, Chapters 1--10 
-            \item \citet{Denhardt2015}, \emph{The New Public Service}, Chapters 5--6 
+            \item Lipsky, \emph{Street-Level Bureaucracy}, Chapters 1--10 \citet{Lipsky2010}
+            \item Denhardt, \emph{The New Public Service}, Chapters 5--6 \citet{Denhardt2015}
         \end{itemize}
-    \item Due Thursday: Annotated Bibliography and Synthesis
-    \item Due Sunday: Personal Reflection
+    \item Due Thursday: Book Report
+    \item Due Saturday: Personal Reflection
     \item \textbf{Assignment}: Literature Review Topic Selection
-\end{itemize}
-
-\subsection*{Week 7 -- 10/10: Privatization and Contracting}
-\begin{itemize}
-    \item \textbf{In-person Session}: Privatization and Contracting
-    \item Readings:
-        \begin{itemize}
-            \item \citet{Cohen2008}, ``Privatization'' 
-            \item \citet{jos2009}, ``Keeping it Public'' 
-        \end{itemize}
-    \item Due Thursday: Annotated Bibliography and Synthesis
-    \item Due Sunday: Personal Reflection
-\end{itemize}
-
-\subsection*{Week 8 -- 10/17: 21st Century Challenges}
-\begin{itemize}
-    \item \textbf{In-person Session}: 21st Century Challenges
-    \item Readings:
-        \begin{itemize}
-            \item \citet{maynard-moody2012}, ``Social Equities and Inequities in Practice'' 
-            \item \citet{GOODEN2017}, ``Social Equity and Evidence'' 
-            \item \citet{mccandless2022}, ``A Long Road''
-            \item \citet{Denhardt2015}, \emph{The New Public Service}, Chapters 10--12 
-        \end{itemize}
-        \item Due Thursday: Annotated Bibliography and Synthesis
-        \item Due Sunday: Personal Reflection
 \end{itemize}
 
 \subsection*{Week 9 -- 10/24: Comprehensive General Area Essay}
@@ -484,7 +401,7 @@ Concentration Area Literature Review Final Draft & 15\% \\
 
 \subsection*{Week 12 -- 11/14: Concentration Area Literature Review}
 \begin{itemize}
-    \item \textbf{In-Person Session}: Concentration Area Literature Review
+    \item \textbf{Synchronous Online Session}: Concentration Area Literature Review
     \item Literature review expectations and guidelines
     \item Due: Literature Review Topic outline
 \end{itemize}
@@ -503,12 +420,12 @@ Concentration Area Literature Review Final Draft & 15\% \\
 
 \subsection*{Week 15 -- 12/12: Concentration Area Literature Review}
 \begin{itemize}
-    \item \textbf{In-Person Session}: Concentration Area Literature Review
+    \item \textbf{In-person Session}: Concentration Area Literature Review
     \item Due: Literature Review Peer Review
     \item Course Wrap-Up and Final Reflections
 \end{itemize}
 
-\subsection*{Week 16 -- 12/19: Course Conclusion}
+\subsection*{Week 16 -- 12/19: Concentration Area Literature Review}
 \begin{itemize}
     \item \textbf{Asynchronous Session}: Concentration Area Literature Review
     \item Due: Literature Review Final Draft
