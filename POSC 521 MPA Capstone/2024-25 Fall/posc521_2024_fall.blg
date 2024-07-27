@@ -5,45 +5,45 @@ The style file: apsr.bst
 Database file #1: 521_Fall2024.bib
 Warning--I didn't find a database entry for "Cohen2008"
 Warning--empty publisher in friedrich1935
-You've used 25 entries,
+You've used 24 entries,
             2874 wiz_defined-function locations,
-            806 strings with 8565 characters,
-and the built_in function-call counts, 86917 in all, are:
-= -- 14183
-> -- 786
+            800 strings with 8441 characters,
+and the built_in function-call counts, 84215 in all, are:
+= -- 13743
+> -- 770
 < -- 0
-+ -- 6454
-- -- 299
-* -- 7227
-:= -- 17621
-add.period$ -- 102
-call.type$ -- 25
-change.case$ -- 327
-chr.to.int$ -- 25
-cite$ -- 26
-duplicate$ -- 420
-empty$ -- 888
-format.name$ -- 338
-if$ -- 15614
++ -- 6259
+- -- 292
+* -- 7015
+:= -- 17056
+add.period$ -- 98
+call.type$ -- 24
+change.case$ -- 314
+chr.to.int$ -- 24
+cite$ -- 25
+duplicate$ -- 404
+empty$ -- 858
+format.name$ -- 329
+if$ -- 15132
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 31
-newline$ -- 113
-num.names$ -- 267
-pop$ -- 118
+missing$ -- 29
+newline$ -- 107
+num.names$ -- 257
+pop$ -- 109
 preamble$ -- 1
-purify$ -- 375
+purify$ -- 360
 quote$ -- 0
-skip$ -- 341
+skip$ -- 333
 stack$ -- 0
-substring$ -- 19888
-swap$ -- 71
-text.length$ -- 350
+substring$ -- 19281
+swap$ -- 70
+text.length$ -- 336
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 88
+type$ -- 86
 warning$ -- 1
-while$ -- 578
+while$ -- 557
 width$ -- 0
-write$ -- 355
+write$ -- 340
 (There were 2 warnings)
