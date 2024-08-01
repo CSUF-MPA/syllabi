@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.7.20)  31 JUL 2024 21:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.7.20)  31 JUL 2024 22:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -331,16 +331,16 @@ LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/snags/Nextcloud/Syllabi/Images/stacked.png>] [2]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 90.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 92.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 90.
+(Font)              scaled to size 11.39996pt on input line 92.
  [3] [4] [5] [6]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 179.
+(Font)              <12> on input line 181.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 179.
+(Font)              <8> on input line 181.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 179.
+(Font)              <6> on input line 181.
  [7] [8] [9] [10] [11] (./posc315_fall_2024.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -348,15 +348,15 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 10359 strings out of 476076
- 159218 string characters out of 5793775
+ 10361 strings out of 476076
+ 159252 string characters out of 5793775
  1937187 words of memory out of 5000000
- 32299 multiletter control sequences out of 15000+600000
+ 32301 multiletter control sequences out of 15000+600000
  577164 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,6n,79p,874b,651s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on posc315_fall_2024.pdf (11 pages, 88631 bytes).
+Output written on posc315_fall_2024.pdf (11 pages, 88616 bytes).
 PDF statistics:
  191 PDF objects out of 1000 (max. 8388607)
  166 compressed objects within 2 object streams

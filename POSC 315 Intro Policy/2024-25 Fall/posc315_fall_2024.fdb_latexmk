@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1722487553.43774 "/home/snags/Nextcloud/Syllabi/POSC 315 Intro Policy/2024-25 Fall/posc315_fall_2024.tex" "posc315_fall_2024.pdf" "posc315_fall_2024" 1722487554.66397 0
+["pdflatex"] 1722489504.70939 "/home/snags/Nextcloud/Syllabi/POSC 315 Intro Policy/2024-25 Fall/posc315_fall_2024.tex" "posc315_fall_2024.pdf" "posc315_fall_2024" 1722489505.91906 0
   "/home/snags/Nextcloud/Syllabi/Images/stacked.png" 1716675725 33252 bac227fd9bfb280447e0ea0acb46657b ""
-  "/home/snags/Nextcloud/Syllabi/POSC 315 Intro Policy/2024-25 Fall/posc315_fall_2024.tex" 1722487553.0037 24354 00210be38d02582b5ffc972fee9175d0 ""
+  "/home/snags/Nextcloud/Syllabi/POSC 315 Intro Policy/2024-25 Fall/posc315_fall_2024.tex" 1722489502.96862 24376 012b7203d634c4eb16414746893f2370 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1716849630 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1716849630 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1716849630 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -87,8 +87,8 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1721534092.07651 5312047 b07fcd2a9090df96fc745b92a3db793b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1721533982 7113003 7b709e84f7c00542803746e51a9f0a4b ""
-  "posc315_fall_2024.aux" 1722487554.57029 5384 3e508feefba35cb63deeea6e8b61f1ef "pdflatex"
-  "posc315_fall_2024.tex" 1722487553.0037 24354 00210be38d02582b5ffc972fee9175d0 ""
+  "posc315_fall_2024.aux" 1722489505.82527 5552 b2b1c0547ad391042756fb528a86b59e "pdflatex"
+  "posc315_fall_2024.tex" 1722489502.96862 24376 012b7203d634c4eb16414746893f2370 ""
   (generated)
   "posc315_fall_2024.aux"
   "posc315_fall_2024.log"
