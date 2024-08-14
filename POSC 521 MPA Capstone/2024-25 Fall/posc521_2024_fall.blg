@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: posc521_2024_fall.aux
+The style file: apsr.bst
+Database file #1: 521_Fall2024.bib
+Warning--I didn't find a database entry for "Cohen2008"
+Warning--empty publisher in friedrich1935
+You've used 23 entries,
+            2874 wiz_defined-function locations,
+            795 strings with 8290 characters,
+and the built_in function-call counts, 80538 in all, are:
+= -- 13127
+> -- 754
+< -- 0
++ -- 5980
+- -- 285
+* -- 6706
+:= -- 16318
+add.period$ -- 94
+call.type$ -- 23
+change.case$ -- 301
+chr.to.int$ -- 23
+cite$ -- 24
+duplicate$ -- 389
+empty$ -- 825
+format.name$ -- 320
+if$ -- 14474
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 28
+newline$ -- 103
+num.names$ -- 247
+pop$ -- 106
+preamble$ -- 1
+purify$ -- 345
+quote$ -- 0
+skip$ -- 320
+stack$ -- 0
+substring$ -- 18406
+swap$ -- 68
+text.length$ -- 322
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 82
+warning$ -- 1
+while$ -- 534
+width$ -- 0
+write$ -- 327
+(There were 2 warnings)
