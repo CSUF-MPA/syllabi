@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.16)  14 AUG 2024 16:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.5)  14 AUG 2024 16:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Volumes/SamsungSSD/Nextcloud/Syllabi/POSC 521 MPA Capstone/2024-25 Fall/posc521_2024_fall.tex"
-(/Volumes/SamsungSSD/Nextcloud/Syllabi/POSC 521 MPA Capstone/2024-25 Fall/posc521_2024_fall.tex
+**"/home/dadams/Nextcloud/Syllabi/POSC 521 MPA Capstone/2024-25 Fall/posc521_2024_fall.tex"
+(/home/dadams/Nextcloud/Syllabi/POSC 521 MPA Capstone/2024-25 Fall/posc521_2024_fall.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
+L3 programming layer <2024-03-14>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo
@@ -24,7 +24,7 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 ) (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2024/02/07 v24.2 The Babel package
+Package: babel 2024/03/29 v24.3 The Babel package
 \babel@savecnt=\count196
 \U@D=\dimen141
 \l@unhyphenated=\language89
@@ -392,7 +392,7 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 11.39996pt on input line 40.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count303
 \l__pdf_internal_box=\box102
 ) (./posc521_2024_fall.aux)
@@ -519,32 +519,25 @@ Overfull \hbox (0.28053pt too wide) in paragraph at lines 159--160
 \T1/phv/m/n/12 email. Stu-dents are re-spon-si-ble for reg-u-larly check-ing their \T1/phv/m/sl/12 Can-vas \T1/phv/m/n/12 no-ti-fi-ca-tions and email.
  []
 
-[5] [6] [7] [8] [9] [10] [11] [12] [13]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[14] [15] [16] [17] [18] (./posc521_2024_fall.bbl [19] [20]) [21] (./posc521_2024_fall.aux)
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] (./posc521_2024_fall.bbl [19] [20]) [21] (./posc521_2024_fall.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
+L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14087 strings out of 474116
- 226851 string characters out of 5743682
- 1937187 words of memory out of 5000000
- 36103 multiletter control sequences out of 15000+600000
+ 14082 strings out of 474104
+ 226794 string characters out of 5743468
+ 1937493 words of memory out of 5000000
+ 36115 multiletter control sequences out of 15000+600000
  584720 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,8n,93p,1114b,763s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,8n,93p,1107b,763s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on posc521_2024_fall.pdf (21 pages, 110699 bytes).
+Output written on posc521_2024_fall.pdf (21 pages, 110362 bytes).
 PDF statistics:
- 417 PDF objects out of 1000 (max. 8388607)
- 382 compressed objects within 4 object streams
- 156 named destinations out of 1000 (max. 500000)
+ 412 PDF objects out of 1000 (max. 8388607)
+ 377 compressed objects within 4 object streams
+ 151 named destinations out of 1000 (max. 500000)
  113 words of extra memory for PDF output out of 10000 (max. 10000000)
 

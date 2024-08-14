@@ -1,8 +1,8 @@
-PWD /Volumes/SamsungSSD/Nextcloud/Syllabi/POSC 521 MPA Capstone/2024-25 Fall
+PWD /home/dadams/Nextcloud/Syllabi/POSC 521 MPA Capstone/2024-25 Fall
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Volumes/SamsungSSD/Nextcloud/Syllabi/POSC 521 MPA Capstone/2024-25 Fall/posc521_2024_fall.tex
+INPUT /home/dadams/Nextcloud/Syllabi/POSC 521 MPA Capstone/2024-25 Fall/posc521_2024_fall.tex
 OUTPUT posc521_2024_fall.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
