@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.16)  14 AUG 2024 15:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.16)  14 AUG 2024 15:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -519,25 +519,29 @@ Overfull \hbox (0.28053pt too wide) in paragraph at lines 159--160
 \T1/phv/m/n/12 email. Stu-dents are re-spon-si-ble for reg-u-larly check-ing their \T1/phv/m/sl/12 Can-vas \T1/phv/m/n/12 no-ti-fi-ca-tions and email.
  []
 
-[5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] (./posc521_2024_fall.bbl [18] [19]) [20] (./posc521_2024_fall.aux)
+[5] [6] [7] [8] [9] [10] [11] [12] [13]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14] [15] [16] [17] [18] (./posc521_2024_fall.bbl [19] [20]) [21] (./posc521_2024_fall.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14085 strings out of 474116
- 226833 string characters out of 5743682
+ 14087 strings out of 474116
+ 226851 string characters out of 5743682
  1937187 words of memory out of 5000000
  36103 multiletter control sequences out of 15000+600000
  584720 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,8n,93p,1114b,763s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on posc521_2024_fall.pdf (20 pages, 109348 bytes).
+Output written on posc521_2024_fall.pdf (21 pages, 110313 bytes).
 PDF statistics:
- 412 PDF objects out of 1000 (max. 8388607)
- 378 compressed objects within 4 object streams
- 154 named destinations out of 1000 (max. 500000)
+ 417 PDF objects out of 1000 (max. 8388607)
+ 382 compressed objects within 4 object streams
+ 156 named destinations out of 1000 (max. 500000)
  113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
