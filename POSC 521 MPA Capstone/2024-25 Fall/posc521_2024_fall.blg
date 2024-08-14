@@ -3,47 +3,46 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: posc521_2024_fall.aux
 The style file: apsr.bst
 Database file #1: 521_Fall2024.bib
-Warning--I didn't find a database entry for "Cohen2008"
 Warning--empty publisher in friedrich1935
-You've used 23 entries,
+You've used 27 entries,
             2874 wiz_defined-function locations,
-            795 strings with 8290 characters,
-and the built_in function-call counts, 80538 in all, are:
-= -- 13127
-> -- 754
+            814 strings with 8925 characters,
+and the built_in function-call counts, 97353 in all, are:
+= -- 15877
+> -- 961
 < -- 0
-+ -- 5980
-- -- 285
-* -- 6706
-:= -- 16318
-add.period$ -- 94
-call.type$ -- 23
-change.case$ -- 301
-chr.to.int$ -- 23
-cite$ -- 24
-duplicate$ -- 389
-empty$ -- 825
-format.name$ -- 320
-if$ -- 14474
++ -- 7268
+- -- 358
+* -- 8149
+:= -- 19692
+add.period$ -- 110
+call.type$ -- 27
+change.case$ -- 353
+chr.to.int$ -- 27
+cite$ -- 28
+duplicate$ -- 449
+empty$ -- 966
+format.name$ -- 395
+if$ -- 17493
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 28
-newline$ -- 103
-num.names$ -- 247
-pop$ -- 106
+missing$ -- 32
+newline$ -- 118
+num.names$ -- 295
+pop$ -- 117
 preamble$ -- 1
-purify$ -- 345
+purify$ -- 405
 quote$ -- 0
-skip$ -- 320
+skip$ -- 374
 stack$ -- 0
-substring$ -- 18406
-swap$ -- 68
-text.length$ -- 322
+substring$ -- 22287
+swap$ -- 76
+text.length$ -- 378
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 82
+type$ -- 98
 warning$ -- 1
-while$ -- 534
+while$ -- 633
 width$ -- 0
-write$ -- 327
-(There were 2 warnings)
+write$ -- 380
+(There was 1 warning)

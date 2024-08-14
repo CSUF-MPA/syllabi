@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex posc521_2024_fall"] 1723658915.9214 "posc521_2024_fall.aux" "posc521_2024_fall.bbl" "posc521_2024_fall" 1723658916.79003 0
-  "./521_Fall2024.bib" 1722727835 24682 c99c9ed9183dac2f01b0f01d79f878db ""
+["bibtex posc521_2024_fall"] 1723673357.68565 "posc521_2024_fall.aux" "posc521_2024_fall.bbl" "posc521_2024_fall" 1723673427.76394 0
+  "./521_Fall2024.bib" 1723672923 31129 d37a3c2f36eebaf05eaa874a25dfafa6 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/harvard/apsr.bst" 1136766823 25357 c990a86d1a60aa9370f76a9507b609ec ""
-  "posc521_2024_fall.aux" 1723658916 8525 9711b700465a05e95da84408bdce5867 "pdflatex"
+  "posc521_2024_fall.aux" 1723673427 9711 c8e85048c55a8380b97d6744cf516f25 "pdflatex"
   (generated)
   "posc521_2024_fall.bbl"
   "posc521_2024_fall.blg"
   (rewritten before read)
-["pdflatex"] 1723658916.01663 "/Volumes/SamsungSSD/Nextcloud/Syllabi/POSC 521 MPA Capstone/2024-25 Fall/posc521_2024_fall.tex" "posc521_2024_fall.pdf" "posc521_2024_fall" 1723658916.79016 0
-  "/Volumes/SamsungSSD/Nextcloud/Syllabi/POSC 521 MPA Capstone/2024-25 Fall/posc521_2024_fall.tex" 1723658913 30479 885e190231e030663722635ec669501a ""
+["pdflatex"] 1723673426.93349 "/Volumes/SamsungSSD/Nextcloud/Syllabi/POSC 521 MPA Capstone/2024-25 Fall/posc521_2024_fall.tex" "posc521_2024_fall.pdf" "posc521_2024_fall" 1723673427.76415 0
+  "/Volumes/SamsungSSD/Nextcloud/Syllabi/POSC 521 MPA Capstone/2024-25 Fall/posc521_2024_fall.tex" 1723673426 40735 b93a2e12a6feca1312c95d66290623bb ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -116,9 +116,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1710628739.07237 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1710628671 8221425 030a3b5d8b550a11b406e44c3b79488c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "posc521_2024_fall.aux" 1723658916 8525 9711b700465a05e95da84408bdce5867 "pdflatex"
-  "posc521_2024_fall.bbl" 1723658916 5610 a858fc01f151d3ffbdc65f85e83dc8f0 "bibtex posc521_2024_fall"
-  "posc521_2024_fall.tex" 1723658913 30479 885e190231e030663722635ec669501a ""
+  "posc521_2024_fall.aux" 1723673427 9711 c8e85048c55a8380b97d6744cf516f25 "pdflatex"
+  "posc521_2024_fall.bbl" 1723673357 6608 0eb4250204623ad259eb26d127d7872b "bibtex posc521_2024_fall"
+  "posc521_2024_fall.tex" 1723673426 40735 b93a2e12a6feca1312c95d66290623bb ""
   (generated)
   "posc521_2024_fall.aux"
   "posc521_2024_fall.log"
