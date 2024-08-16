@@ -1,48 +1,50 @@
-This is BibTeX, Version 0.99d (TeX Live 2024/Homebrew)
+This is BibTeX, Version 0.99d (TeX Live 2024)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: posc521_2024_fall.aux
 The style file: apsr.bst
 Database file #1: 521_Fall2024.bib
+Warning--I didn't find a database entry for "simon1946a"
+Warning--I didn't find a database entry for "milward2000"
 Warning--empty publisher in friedrich1935
-You've used 27 entries,
+You've used 25 entries,
             2874 wiz_defined-function locations,
-            814 strings with 8925 characters,
-and the built_in function-call counts, 97353 in all, are:
-= -- 15877
-> -- 961
+            810 strings with 8859 characters,
+and the built_in function-call counts, 90769 in all, are:
+= -- 14808
+> -- 894
 < -- 0
-+ -- 7268
-- -- 358
-* -- 8149
-:= -- 19692
-add.period$ -- 110
-call.type$ -- 27
-change.case$ -- 353
-chr.to.int$ -- 27
-cite$ -- 28
-duplicate$ -- 449
-empty$ -- 966
-format.name$ -- 395
-if$ -- 17493
++ -- 6784
+- -- 333
+* -- 7601
+:= -- 18347
+add.period$ -- 102
+call.type$ -- 25
+change.case$ -- 327
+chr.to.int$ -- 25
+cite$ -- 26
+duplicate$ -- 419
+empty$ -- 896
+format.name$ -- 368
+if$ -- 16314
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 32
-newline$ -- 118
-num.names$ -- 295
-pop$ -- 117
+missing$ -- 30
+newline$ -- 112
+num.names$ -- 273
+pop$ -- 111
 preamble$ -- 1
-purify$ -- 405
+purify$ -- 375
 quote$ -- 0
-skip$ -- 374
+skip$ -- 346
 stack$ -- 0
-substring$ -- 22287
-swap$ -- 76
-text.length$ -- 378
+substring$ -- 20793
+swap$ -- 72
+text.length$ -- 350
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 98
+type$ -- 90
 warning$ -- 1
-while$ -- 633
+while$ -- 585
 width$ -- 0
-write$ -- 380
-(There was 1 warning)
+write$ -- 356
+(There were 3 warnings)
