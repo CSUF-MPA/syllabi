@@ -35,7 +35,9 @@
 }
 \usepackage[scaled]{helvet} % Load the helvet package
 \renewcommand*\familydefault{\sfdefault} % Set the default font to be sans-serif
-
+\newenvironment{boldnumlist}
+{\begin{enumerate}[label=\textbf{\arabic*.}]}
+{\end{enumerate}}
 
 \begin{document}
 \title{\includegraphics[width=8cm]{Images/stacked.png} \\ \textbf{Introduction to Public Administration}}
@@ -265,9 +267,35 @@ This AI policy is designed to align with our course objectives:
 
 \noindent Remember, the goal of this policy is to enhance your learning experience and prepare you for a future where AI will likely play a significant role in public administration. Use these tools responsibly and ethically to support your academic and professional growth.
 
+\subsubsection*{Goals and Assessment of AI Use}
+
+\noindent The goals for AI use in this course are:
+
+\begin{enumerate}
+    \item To teach students to use AI as a complementary tool for enhancing critical thinking and writing skills.
+    \item To prepare students for professional environments where AI tools are increasingly common in public administration.
+    \item To encourage critical evaluation of AI-generated feedback and content.
+    \item To foster ethical and responsible use of AI in academic and professional settings.
+\end{enumerate}
+
+\noindent Assessment of these goals and overall learning objectives will be conducted through:
+
+\begin{itemize}
+    \item Comparison of initial drafts with AI-assisted revisions
+    \item Analysis of student reflections on the learning process
+    \item Evaluation of class participation and discussions
+    \item Periodic comparative assignments (with and without AI assistance)
+    \item Review of AI usage logs
+    \item Assessment of peer review quality
+    \item Comprehensive final project or exam
+    \item Professional development reflection on future AI use in public administration
+\end{itemize}
+
+\noindent These assessment methods will help ensure that AI use is enhancing, rather than replacing, critical thinking and analytical skills essential to public administration.
+
 \section{Course Requirements}
 
-\subsection*{Weekly Annotated Bibliography, Synthesis, and Reflection}
+\subsection*{1) Weekly Annotated Bibliography, Synthesis, and Reflection}
 
 To facilitate class discussions and prepare you for comprehensive exams, your weekly writing assignment comprises two main components: an annotated bibliography of each weekly reading and a 2- to 3-page synthesis of the week's readings. You may also submit a personal reflection for bonus points. 
 
@@ -286,9 +314,9 @@ To facilitate class discussions and prepare you for comprehensive exams, your we
 \item \textbf{Synthesis}: A synthesis combines information from multiple sources to present a comprehensive understanding or argument. In this context, your sources are the weekly readings. The synthesis should:
 
 \begin{itemize}
-    \item Identify patterns.
-    \item Draw connections.
-    \item Address contradictions among sources.
+    \item Identify patterns and themes across readings;
+    \item Draw connections between sources; and
+    \item Address contradictions among sources or within individual readings.
 \end{itemize}
 
 \noindent This critical analysis encourages deeper thinking about the readings and their implications for public administration theory and practice.
@@ -299,14 +327,16 @@ To facilitate class discussions and prepare you for comprehensive exams, your we
 \subsubsection*{Assignment Details}
 
 \textbf{Objectives}: Engage deeply with course readings, reflect on their implications for public administration, and collaborate with peers and AI to enhance analytical and writing skills.
+\vspace{0.5em}
 
-\textbf{Incorporating AI}: We'll use AI tools like ChatGPT to provide feedback on your assignments, aiming to refine your comprehension and writing skills. Remember, AI is a complementary tool to your critical thinking.
+\noindent \textbf{Incorporating AI}: We'll use AI tools like ChatGPT to provide feedback on your assignments, aiming to refine your comprehension and writing skills. Remember, AI is a complementary tool to your critical thinking.
 
 \subsubsection*{Assignment Components}
 
-\textbf{1. Annotated Bibliography}
+\begin{boldnumlist}
+\item \textbf{Annotated Bibliography}
 
-\begin{enumerate}
+\begin{itemize}
     \item \textbf{Purpose}: Review literature on the week's topic to prepare for synthesis and class discussions.
     \item \textbf{Process}:
     \begin{itemize}
@@ -320,11 +350,11 @@ To facilitate class discussions and prepare you for comprehensive exams, your we
         \textit{"I've completed an annotated bibliography for an article. The citation is [insert citation]. The summary I wrote is [insert summary]. I've noted the relevance as [insert relevance]. Could you provide feedback on my summary and relevance note?"}
         \item Revise based on AI feedback as desired. This activity is ungraded and for your benefit.
     \end{itemize}
-\end{enumerate}
+\end{itemize}
 
-\textbf{2. Synthesis}
+\item \textbf{Synthesis}
 
-\begin{enumerate}
+\begin{itemize}
     \item \textbf{Purpose}: Integrate main themes and insights from weekly readings, discussing their implications for public administration.
     \item \textbf{Process}:
     \begin{itemize}
@@ -338,8 +368,8 @@ To facilitate class discussions and prepare you for comprehensive exams, your we
         \item Revise your synthesis based on peer feedback.
         \item Submit the revised synthesis to AI for feedback using the prompt:
         \textit{"I've synthesized information from [number] articles on [topic]. Here's my draft of the synthesis [insert draft]. Could you provide feedback and suggest any connections or contrasts I missed?"}
-        \item Revising a second time based on AI feedback is optional and ungraded.
-        \item Submit your final synthesis and the AI's feedback to Canvas for grading.
+        \item \emph{Revising a second time based on AI feedback is optional and ungraded.}
+        \item Submit your final synthesis \emph{and} the AI's feedback to Canvas for grading.
     \end{itemize}
     \item \textbf{Grading}:
     \begin{itemize}
@@ -349,11 +379,11 @@ To facilitate class discussions and prepare you for comprehensive exams, your we
         \item \textbf{AI Feedback}: 10\%
     \end{itemize}
     The synthesis, peer review, and AI feedback will be graded as a single assignment. Your revised synthesis will be evaluated using the Canvas rubric.
-\end{enumerate}
+\end{itemize}
 
-\textbf{3. Bonus Point Reflection Activity} (Optional)
+\item \textbf{Bonus Point Reflection Activity} (Optional)
 
-\begin{enumerate}
+\begin{itemize}
     \item \textbf{Purpose}: Engage in metacognitive practice to analyze your learning process and feedback.
     \item \textbf{Process}:
     \begin{itemize}
@@ -371,13 +401,13 @@ To facilitate class discussions and prepare you for comprehensive exams, your we
         \textit{"I've completed a reflection on my learning process for this week's synthesis assignment. Here's my reflection [insert reflection]. Could you provide feedback or ask questions to provoke further thought?"}
         \item Submit both your reflection and the AI's feedback to Canvas for bonus point consideration.
     \end{itemize}
-\end{enumerate}
-
+\end{itemize}
+\end{boldnumlist}
 \subsubsection*{Skip Week!}
 
 Students may skip one week of the annotated bibliography, synthesis, and reflection assignment during the semester. This option is intended to accommodate unexpected events or personal commitments. If you choose to skip a week, please notify the professor in advance. In place of the final synthesis during the skip week place a note in the Canvas assignment indicating that you are using your skip week.
 
-\subsection*{Reading Discussion Facilitation}
+\subsection*{2) Reading Discussion Facilitation}
 A group of students will be responsible for facilitating the discussion of the assigned readings each week. The facilitators will lead the class in a discussion of the readings, pose questions to stimulate critical thinking and analysis, and encourage active participation from all students. The facilitators will also provide a brief summary of the readings and highlight the key points for discussion. The facilitators will be selected at the beginning of the semester, and the schedule will be posted on \emph{Canvas}. The facilitators will be graded based on the following criteria:
 
 \begin{itemize}
@@ -389,11 +419,11 @@ A group of students will be responsible for facilitating the discussion of the a
     \item Participation: The facilitators actively participate in the discussion and contribute to the class's understanding of the readings.
 \end{itemize}
 
-\subsection*{MPA Comprehensive General Area Essay Exam}
+\subsection*{3) MPA Comprehensive General Area Essay Exam}
 
-Students will complete a comprehensive general area essay exam as part of the MPA program's comprehensive exam requirement. The exam will consist of two questions from which students will choose one to answer. The questions will be based on the course readings and discussions and will require students to demonstrate their understanding of public administration's key concepts, theories, and debates. The exam will allow students to synthesize their learning in the course and demonstrate their ability to think critically and write clearly about complex issues in public administration. Students who do not pass the exam on the first attempt will have the opportunity to retake the exam once during finals week.
+Students will complete a comprehensive general area essay exam as part of the MPA program's comprehensive exam requirement. The exam will consist of two questions from which students will choose one to answer. The questions will be based on the course readings and discussions and will require students to demonstrate their understanding of public administration's key concepts, theories, and debates. The exam will allow students to synthesize their learning in the course and demonstrate their ability to think critically and write clearly about complex issues in public administration. Students who do not pass the exam on the first attempt will have the opportunity to retake the exam once during finals week. The grade for the exam is pass/fail. Students who do not pass on the second attempt will be required to retake the course.
 
-\subsection*{Concentration Area Literature Review}
+\subsection*{4) Concentration Area Literature Review}
 
 \subsubsection*{Literature Review}
 
@@ -506,7 +536,7 @@ D- & 50.0 -- 59.9 & F & 0 -- 49.9\\
 
 \begin{table}[h!]
     \centering
-    \caption{Revised Grade Weights}
+    \caption{Grade Weights}
     \begin{tabular}{ll}
         \toprule
     \textbf{Assignment} & \textbf{Percentage} \\
@@ -541,7 +571,7 @@ D- & 50.0 -- 59.9 & F & 0 -- 49.9\\
             \item \citet{Weber1946}, ``Bureaucracy'' 
             \item \citet{gulick1937}, ``Notes on the Theory of Organization'' 
             \item \citet{Follett1926}, ``The Giving of Orders'' 
-            \item \citet{simon1946a}, ``Proverbs of Administration'' 
+            \item \citet{simon1946}, ``Proverbs of Administration'' 
         \end{itemize}
     \item Due Wednesday: Annotated Bibliography and Synthesis
     \item Due Friday: Peer Review
@@ -627,7 +657,7 @@ D- & 50.0 -- 59.9 & F & 0 -- 49.9\\
     \item \textbf{In-person Session}: Privatization and Contracting
     \item Readings:
         \begin{itemize}
-            \item \citet{milward2000}, ``Governing the Hollow State''
+            \item \citet{MILWARD2000a}, ``Governing the Hollow State''
             \item \cite{hood1991}, ``A Public Management for All Seasons?''
             \item \citet{brown2006}, ``Managing Public Service Contracts''
             \item \citet{jos2009}, ``Keeping it Public''
@@ -705,5 +735,11 @@ D- & 50.0 -- 59.9 & F & 0 -- 49.9\\
             \singlespace
             \bibliographystyle{apsr}
             \bibliography{521_Fall2024}
+
+% updated date
+\begin{flushright}
+Updated: \today
+\end{flushright}
+
             
 \end{document}

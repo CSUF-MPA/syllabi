@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.5)  15 AUG 2024 23:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.5)  15 AUG 2024 23:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -385,12 +385,12 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 35.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 40.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 42.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 40.
+(Font)              scaled to size 11.39996pt on input line 42.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count303
@@ -398,24 +398,24 @@ File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
 ) (./posc521_2024_fall.aux)
 \openout1 = `posc521_2024_fall.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -474,90 +474,75 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 40.
+Package hyperref Info: Link coloring ON on input line 42.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 19.70294pt on input line 47.
+(Font)              scaled to size 19.70294pt on input line 49.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 13.67995pt on input line 47.
+(Font)              scaled to size 13.67995pt on input line 49.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 47.
+(Font)              <14.4> on input line 49.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 47.
+(Font)              <7> on input line 49.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 13.67995pt on input line 47.
+(Font)              scaled to size 13.67995pt on input line 49.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 50.
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 51.
+(Font)              scaled to size 11.39996pt on input line 52.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 53.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 51.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 77.
+(Font)              scaled to size 11.39996pt on input line 53.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 79.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 84.
+(Font)              scaled to size 16.41594pt on input line 86.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 16.41594pt on input line 84.
+(Font)              scaled to size 16.41594pt on input line 86.
  [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [2]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 119.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 121.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 119.
+(Font)              scaled to size 11.39996pt on input line 121.
  [3] [4]
-Overfull \hbox (0.28053pt too wide) in paragraph at lines 186--187
+Overfull \hbox (0.28053pt too wide) in paragraph at lines 188--189
 \T1/phv/m/n/12 email. Stu-dents are re-spon-si-ble for reg-u-larly check-ing their \T1/phv/m/sl/12 Can-vas \T1/phv/m/n/12 no-ti-fi-ca-tions and email.
  []
 
-[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 491.
+(Font)              <12> on input line 521.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 491.
+(Font)              <8> on input line 521.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 491.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+(Font)              <6> on input line 521.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[15] [16]
-
-Package natbib Warning: Citation `simon1946a' on page 17 undefined on input line 544.
-
-[17] [18]
-
-Package natbib Warning: Citation `milward2000' on page 19 undefined on input line 630.
-
-[19] (./posc521_2024_fall.bbl [20] [21])
-
-Package natbib Warning: There were undefined citations.
-
-[22] (./posc521_2024_fall.aux)
+[16] [17] [18] [19] [20] (./posc521_2024_fall.bbl [21] [22]) [23] (./posc521_2024_fall.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14089 strings out of 474104
- 226850 string characters out of 5743468
+ 14109 strings out of 474104
+ 227243 string characters out of 5743468
  1938493 words of memory out of 5000000
- 36110 multiletter control sequences out of 15000+600000
+ 36126 multiletter control sequences out of 15000+600000
  584720 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,8n,93p,1118b,759s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,8n,93p,1118b,791s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on posc521_2024_fall.pdf (22 pages, 114033 bytes).
+Output written on posc521_2024_fall.pdf (23 pages, 115726 bytes).
 PDF statistics:
- 425 PDF objects out of 1000 (max. 8388607)
- 389 compressed objects within 4 object streams
- 163 named destinations out of 1000 (max. 500000)
+ 436 PDF objects out of 1000 (max. 8388607)
+ 399 compressed objects within 4 object streams
+ 167 named destinations out of 1000 (max. 500000)
  113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
